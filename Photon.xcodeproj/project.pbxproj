@@ -1,0 +1,702 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F630121D21E78A5C007D5F0A /* CocoaAsyncSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F630121E21E78A7F007D5F0A /* CocoaMQTT.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5358321E785AE0007925E /* CocoaMQTT.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F630126B21E8D4DC007D5F0A /* GetColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630126A21E8D4DC007D5F0A /* GetColor.swift */; };
+		F630127021E8DD0C007D5F0A /* UpdateLEDs.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630126F21E8DD0C007D5F0A /* UpdateLEDs.swift */; };
+		F630127221E8F1D8007D5F0A /* MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630127121E8F1D8007D5F0A /* MainApp.swift */; };
+		F667956F21E261E900EACE34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667956E21E261E900EACE34 /* AppDelegate.swift */; };
+		F667957321E261E900EACE34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F667957221E261E900EACE34 /* Assets.xcassets */; };
+		F667957621E261E900EACE34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F667957421E261E900EACE34 /* Main.storyboard */; };
+		F6C5355D21E6A05E0007925E /* libEonilFSEvents.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */; };
+		F6C5356B21E6B8E30007925E /* ORSSerial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5356A21E6B8E30007925E /* ORSSerial.framework */; };
+		F6C5356E21E6BEA00007925E /* ORSSerial.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5356A21E6B8E30007925E /* ORSSerial.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F6C5358421E785AE0007925E /* CocoaMQTT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5358321E785AE0007925E /* CocoaMQTT.framework */; };
+		F6C5358621E785E70007925E /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F667957E21E261E900EACE34 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F667956321E261E900EACE34 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F667956A21E261E900EACE34;
+			remoteInfo = "RGB LED Palette";
+		};
+		F667958921E261E900EACE34 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F667956321E261E900EACE34 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F667956A21E261E900EACE34;
+			remoteInfo = "RGB LED Palette";
+		};
+		F6C5355A21E6A0350007925E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4513D3AD21D52FC50070A7A5;
+			remoteInfo = EonilFSEvents;
+		};
+		F6C5356621E6B8C70007925E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9DCA89121A2BB106009285EB;
+			remoteInfo = ORSSerial;
+		};
+		F6C5356821E6B8C70007925E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9D7472131B6D7767002D8B10;
+			remoteInfo = "ORSSerialPort Tests";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F6A1133121E649C5007A0AEA /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				F630121D21E78A5C007D5F0A /* CocoaAsyncSocket.framework in Embed Frameworks */,
+				F6C5356E21E6BEA00007925E /* ORSSerial.framework in Embed Frameworks */,
+				F630121E21E78A7F007D5F0A /* CocoaMQTT.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F630126A21E8D4DC007D5F0A /* GetColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetColor.swift; sourceTree = "<group>"; };
+		F630126F21E8DD0C007D5F0A /* UpdateLEDs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateLEDs.swift; sourceTree = "<group>"; };
+		F630127121E8F1D8007D5F0A /* MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApp.swift; sourceTree = "<group>"; };
+		F630137421EA32D0007D5F0A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F667956B21E261E900EACE34 /* Photon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Photon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F667956E21E261E900EACE34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F667957021E261E900EACE34 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F667957221E261E900EACE34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F667957521E261E900EACE34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F667957821E261E900EACE34 /* Photon.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Photon.entitlements; sourceTree = "<group>"; };
+		F667957D21E261E900EACE34 /* PhotonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F667958821E261E900EACE34 /* PhotonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F66E45DF21E695A300D52F2E /* Witness.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Witness.framework; sourceTree = "<group>"; };
+		F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = EonilFSEvents.xcodeproj; path = "../Downloads/FSEvents-master/EonilFSEvents.xcodeproj"; sourceTree = "<group>"; };
+		F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libEonilFSEvents.a; path = "../Downloads/FSEvents-master/libEonilFSEvents.a"; sourceTree = "<group>"; };
+		F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ORSSerialPort.xcodeproj; path = "../Downloads/ORSSerialPort-master/Framework Project/ORSSerialPort.xcodeproj"; sourceTree = "<group>"; };
+		F6C5356A21E6B8E30007925E /* ORSSerial.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ORSSerial.framework; sourceTree = "<group>"; };
+		F6C5358321E785AE0007925E /* CocoaMQTT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaMQTT.framework; sourceTree = "<group>"; };
+		F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaAsyncSocket.framework; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F667956821E261E900EACE34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6C5355D21E6A05E0007925E /* libEonilFSEvents.a in Frameworks */,
+				F6C5356B21E6B8E30007925E /* ORSSerial.framework in Frameworks */,
+				F6C5358621E785E70007925E /* CocoaAsyncSocket.framework in Frameworks */,
+				F6C5358421E785AE0007925E /* CocoaMQTT.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667957A21E261E900EACE34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667958521E261E900EACE34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F667956221E261E900EACE34 = {
+			isa = PBXGroup;
+			children = (
+				F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */,
+				F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */,
+				F667956D21E261E900EACE34 /* Photon */,
+				F667956C21E261E900EACE34 /* Products */,
+				F6A1133221E649CF007A0AEA /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		F667956C21E261E900EACE34 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F667956B21E261E900EACE34 /* Photon.app */,
+				F667957D21E261E900EACE34 /* PhotonTests.xctest */,
+				F667958821E261E900EACE34 /* PhotonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F667956D21E261E900EACE34 /* Photon */ = {
+			isa = PBXGroup;
+			children = (
+				F630137421EA32D0007D5F0A /* Info.plist */,
+				F667956E21E261E900EACE34 /* AppDelegate.swift */,
+				F667957021E261E900EACE34 /* ViewController.swift */,
+				F667957221E261E900EACE34 /* Assets.xcassets */,
+				F667957421E261E900EACE34 /* Main.storyboard */,
+				F667957821E261E900EACE34 /* Photon.entitlements */,
+				F630126A21E8D4DC007D5F0A /* GetColor.swift */,
+				F630126F21E8DD0C007D5F0A /* UpdateLEDs.swift */,
+				F630127121E8F1D8007D5F0A /* MainApp.swift */,
+			);
+			path = Photon;
+			sourceTree = "<group>";
+		};
+		F6A1133221E649CF007A0AEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */,
+				F6C5358321E785AE0007925E /* CocoaMQTT.framework */,
+				F6C5356A21E6B8E30007925E /* ORSSerial.framework */,
+				F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */,
+				F66E45DF21E695A300D52F2E /* Witness.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F6C5355721E6A0350007925E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F6C5355B21E6A0350007925E /* libEonilFSEvents.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F6C5356221E6B8C70007925E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F6C5356721E6B8C70007925E /* ORSSerial.framework */,
+				F6C5356921E6B8C70007925E /* ORSSerialPort Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F667956A21E261E900EACE34 /* Photon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F667959121E261E900EACE34 /* Build configuration list for PBXNativeTarget "Photon" */;
+			buildPhases = (
+				F667956721E261E900EACE34 /* Sources */,
+				F667956821E261E900EACE34 /* Frameworks */,
+				F667956921E261E900EACE34 /* Resources */,
+				F6A1133121E649C5007A0AEA /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Photon;
+			productName = "RGB LED Palette";
+			productReference = F667956B21E261E900EACE34 /* Photon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F667957C21E261E900EACE34 /* PhotonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F667959421E261E900EACE34 /* Build configuration list for PBXNativeTarget "PhotonTests" */;
+			buildPhases = (
+				F667957921E261E900EACE34 /* Sources */,
+				F667957A21E261E900EACE34 /* Frameworks */,
+				F667957B21E261E900EACE34 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F667957F21E261E900EACE34 /* PBXTargetDependency */,
+			);
+			name = PhotonTests;
+			productName = "RGB LED PaletteTests";
+			productReference = F667957D21E261E900EACE34 /* PhotonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F667958721E261E900EACE34 /* PhotonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F667959721E261E900EACE34 /* Build configuration list for PBXNativeTarget "PhotonUITests" */;
+			buildPhases = (
+				F667958421E261E900EACE34 /* Sources */,
+				F667958521E261E900EACE34 /* Frameworks */,
+				F667958621E261E900EACE34 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F667958A21E261E900EACE34 /* PBXTargetDependency */,
+			);
+			name = PhotonUITests;
+			productName = "RGB LED PaletteUITests";
+			productReference = F667958821E261E900EACE34 /* PhotonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F667956321E261E900EACE34 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "Haru-tan";
+				TargetAttributes = {
+					F667956A21E261E900EACE34 = {
+						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 0;
+							};
+						};
+					};
+					F667957C21E261E900EACE34 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = F667956A21E261E900EACE34;
+					};
+					F667958721E261E900EACE34 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = F667956A21E261E900EACE34;
+					};
+				};
+			};
+			buildConfigurationList = F667956621E261E900EACE34 /* Build configuration list for PBXProject "Photon" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F667956221E261E900EACE34;
+			productRefGroup = F667956C21E261E900EACE34 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = F6C5355721E6A0350007925E /* Products */;
+					ProjectRef = F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */;
+				},
+				{
+					ProductGroup = F6C5356221E6B8C70007925E /* Products */;
+					ProjectRef = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				F667956A21E261E900EACE34 /* Photon */,
+				F667957C21E261E900EACE34 /* PhotonTests */,
+				F667958721E261E900EACE34 /* PhotonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		F6C5355B21E6A0350007925E /* libEonilFSEvents.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libEonilFSEvents.a;
+			remoteRef = F6C5355A21E6A0350007925E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		F6C5356721E6B8C70007925E /* ORSSerial.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = ORSSerial.framework;
+			remoteRef = F6C5356621E6B8C70007925E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		F6C5356921E6B8C70007925E /* ORSSerialPort Tests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "ORSSerialPort Tests.xctest";
+			remoteRef = F6C5356821E6B8C70007925E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F667956921E261E900EACE34 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F667957321E261E900EACE34 /* Assets.xcassets in Resources */,
+				F667957621E261E900EACE34 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667957B21E261E900EACE34 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667958621E261E900EACE34 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F667956721E261E900EACE34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F630126B21E8D4DC007D5F0A /* GetColor.swift in Sources */,
+				F630127221E8F1D8007D5F0A /* MainApp.swift in Sources */,
+				F630127021E8DD0C007D5F0A /* UpdateLEDs.swift in Sources */,
+				F667956F21E261E900EACE34 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667957921E261E900EACE34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F667958421E261E900EACE34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F667957F21E261E900EACE34 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F667956A21E261E900EACE34 /* Photon */;
+			targetProxy = F667957E21E261E900EACE34 /* PBXContainerItemProxy */;
+		};
+		F667958A21E261E900EACE34 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F667956A21E261E900EACE34 /* Photon */;
+			targetProxy = F667958921E261E900EACE34 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F667957421E261E900EACE34 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F667957521E261E900EACE34 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F667958F21E261E900EACE34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_INCLUDE_PATHS = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F667959021E261E900EACE34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		F667959221E261E900EACE34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = NO;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Photon",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/Photon/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.Photon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Debug;
+		};
+		F667959321E261E900EACE34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = NO;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Photon",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/Photon/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.Photon";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+			};
+			name = Release;
+		};
+		F667959521E261E900EACE34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "RGB LED PaletteTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.RGB-LED-PaletteTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Photon.app/Contents/MacOS/Photon";
+			};
+			name = Debug;
+		};
+		F667959621E261E900EACE34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "RGB LED PaletteTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.RGB-LED-PaletteTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Photon.app/Contents/MacOS/Photon";
+			};
+			name = Release;
+		};
+		F667959821E261E900EACE34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "RGB LED PaletteUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.RGB-LED-PaletteUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TEST_TARGET_NAME = "RGB LED Palette";
+			};
+			name = Debug;
+		};
+		F667959921E261E900EACE34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "RGB LED PaletteUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.RGB-LED-PaletteUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TEST_TARGET_NAME = "RGB LED Palette";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F667956621E261E900EACE34 /* Build configuration list for PBXProject "Photon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F667958F21E261E900EACE34 /* Debug */,
+				F667959021E261E900EACE34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F667959121E261E900EACE34 /* Build configuration list for PBXNativeTarget "Photon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F667959221E261E900EACE34 /* Debug */,
+				F667959321E261E900EACE34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F667959421E261E900EACE34 /* Build configuration list for PBXNativeTarget "PhotonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F667959521E261E900EACE34 /* Debug */,
+				F667959621E261E900EACE34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F667959721E261E900EACE34 /* Build configuration list for PBXNativeTarget "PhotonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F667959821E261E900EACE34 /* Debug */,
+				F667959921E261E900EACE34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F667956321E261E900EACE34 /* Project object */;
+}
