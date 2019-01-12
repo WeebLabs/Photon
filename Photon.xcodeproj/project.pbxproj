@@ -12,10 +12,10 @@
 		F630126B21E8D4DC007D5F0A /* GetColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630126A21E8D4DC007D5F0A /* GetColor.swift */; };
 		F630127021E8DD0C007D5F0A /* UpdateLEDs.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630126F21E8DD0C007D5F0A /* UpdateLEDs.swift */; };
 		F630127221E8F1D8007D5F0A /* MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F630127121E8F1D8007D5F0A /* MainApp.swift */; };
+		F630141F21EA693E007D5F0A /* libEonilFSEvents.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F630141E21EA693E007D5F0A /* libEonilFSEvents.a */; };
 		F667956F21E261E900EACE34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667956E21E261E900EACE34 /* AppDelegate.swift */; };
 		F667957321E261E900EACE34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F667957221E261E900EACE34 /* Assets.xcassets */; };
 		F667957621E261E900EACE34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F667957421E261E900EACE34 /* Main.storyboard */; };
-		F6C5355D21E6A05E0007925E /* libEonilFSEvents.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */; };
 		F6C5356B21E6B8E30007925E /* ORSSerial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5356A21E6B8E30007925E /* ORSSerial.framework */; };
 		F6C5356E21E6BEA00007925E /* ORSSerial.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5356A21E6B8E30007925E /* ORSSerial.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F6C5358421E785AE0007925E /* CocoaMQTT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6C5358321E785AE0007925E /* CocoaMQTT.framework */; };
@@ -23,6 +23,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		F630144421EA6C77007D5F0A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F630144021EA6C77007D5F0A /* EonilFSEvents.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4513D3AD21D52FC50070A7A5;
+			remoteInfo = EonilFSEvents;
+		};
 		F667957E21E261E900EACE34 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = F667956321E261E900EACE34 /* Project object */;
@@ -36,27 +43,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = F667956A21E261E900EACE34;
 			remoteInfo = "RGB LED Palette";
-		};
-		F6C5355A21E6A0350007925E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 4513D3AD21D52FC50070A7A5;
-			remoteInfo = EonilFSEvents;
-		};
-		F6C5356621E6B8C70007925E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9DCA89121A2BB106009285EB;
-			remoteInfo = ORSSerial;
-		};
-		F6C5356821E6B8C70007925E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 9D7472131B6D7767002D8B10;
-			remoteInfo = "ORSSerialPort Tests";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -81,6 +67,8 @@
 		F630126F21E8DD0C007D5F0A /* UpdateLEDs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateLEDs.swift; sourceTree = "<group>"; };
 		F630127121E8F1D8007D5F0A /* MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApp.swift; sourceTree = "<group>"; };
 		F630137421EA32D0007D5F0A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F630141E21EA693E007D5F0A /* libEonilFSEvents.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEonilFSEvents.a; sourceTree = "<group>"; };
+		F630144021EA6C77007D5F0A /* EonilFSEvents.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = EonilFSEvents.xcodeproj; path = "../Downloads/FSEvents-master/EonilFSEvents.xcodeproj"; sourceTree = "<group>"; };
 		F667956B21E261E900EACE34 /* Photon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Photon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F667956E21E261E900EACE34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F667957021E261E900EACE34 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -90,9 +78,6 @@
 		F667957D21E261E900EACE34 /* PhotonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F667958821E261E900EACE34 /* PhotonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F66E45DF21E695A300D52F2E /* Witness.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Witness.framework; sourceTree = "<group>"; };
-		F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = EonilFSEvents.xcodeproj; path = "../Downloads/FSEvents-master/EonilFSEvents.xcodeproj"; sourceTree = "<group>"; };
-		F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libEonilFSEvents.a; path = "../Downloads/FSEvents-master/libEonilFSEvents.a"; sourceTree = "<group>"; };
-		F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ORSSerialPort.xcodeproj; path = "../Downloads/ORSSerialPort-master/Framework Project/ORSSerialPort.xcodeproj"; sourceTree = "<group>"; };
 		F6C5356A21E6B8E30007925E /* ORSSerial.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ORSSerial.framework; sourceTree = "<group>"; };
 		F6C5358321E785AE0007925E /* CocoaMQTT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaMQTT.framework; sourceTree = "<group>"; };
 		F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaAsyncSocket.framework; sourceTree = "<group>"; };
@@ -103,8 +88,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6C5355D21E6A05E0007925E /* libEonilFSEvents.a in Frameworks */,
 				F6C5356B21E6B8E30007925E /* ORSSerial.framework in Frameworks */,
+				F630141F21EA693E007D5F0A /* libEonilFSEvents.a in Frameworks */,
 				F6C5358621E785E70007925E /* CocoaAsyncSocket.framework in Frameworks */,
 				F6C5358421E785AE0007925E /* CocoaMQTT.framework in Frameworks */,
 			);
@@ -127,11 +112,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F630144121EA6C77007D5F0A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F630144521EA6C77007D5F0A /* libEonilFSEvents.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		F667956221E261E900EACE34 = {
 			isa = PBXGroup;
 			children = (
-				F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */,
-				F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */,
+				F630144021EA6C77007D5F0A /* EonilFSEvents.xcodeproj */,
 				F667956D21E261E900EACE34 /* Photon */,
 				F667956C21E261E900EACE34 /* Products */,
 				F6A1133221E649CF007A0AEA /* Frameworks */,
@@ -167,30 +159,13 @@
 		F6A1133221E649CF007A0AEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F630141E21EA693E007D5F0A /* libEonilFSEvents.a */,
 				F6C5358521E785E70007925E /* CocoaAsyncSocket.framework */,
 				F6C5358321E785AE0007925E /* CocoaMQTT.framework */,
 				F6C5356A21E6B8E30007925E /* ORSSerial.framework */,
-				F6C5355C21E6A05E0007925E /* libEonilFSEvents.a */,
 				F66E45DF21E695A300D52F2E /* Witness.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		F6C5355721E6A0350007925E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				F6C5355B21E6A0350007925E /* libEonilFSEvents.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		F6C5356221E6B8C70007925E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				F6C5356721E6B8C70007925E /* ORSSerial.framework */,
-				F6C5356921E6B8C70007925E /* ORSSerialPort Tests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,12 +266,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = F6C5355721E6A0350007925E /* Products */;
-					ProjectRef = F6C5355621E6A0350007925E /* EonilFSEvents.xcodeproj */;
-				},
-				{
-					ProductGroup = F6C5356221E6B8C70007925E /* Products */;
-					ProjectRef = F6C5356121E6B8C70007925E /* ORSSerialPort.xcodeproj */;
+					ProductGroup = F630144121EA6C77007D5F0A /* Products */;
+					ProjectRef = F630144021EA6C77007D5F0A /* EonilFSEvents.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -309,25 +280,11 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		F6C5355B21E6A0350007925E /* libEonilFSEvents.a */ = {
+		F630144521EA6C77007D5F0A /* libEonilFSEvents.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libEonilFSEvents.a;
-			remoteRef = F6C5355A21E6A0350007925E /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		F6C5356721E6B8C70007925E /* ORSSerial.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = ORSSerial.framework;
-			remoteRef = F6C5356621E6B8C70007925E /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		F6C5356921E6B8C70007925E /* ORSSerialPort Tests.xctest */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.cfbundle;
-			path = "ORSSerialPort Tests.xctest";
-			remoteRef = F6C5356821E6B8C70007925E /* PBXContainerItemProxy */;
+			remoteRef = F630144421EA6C77007D5F0A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -546,7 +503,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)";
 				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.Photon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -572,7 +529,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "$(PROJECT_DIR)";
 				PRODUCT_BUNDLE_IDENTIFIER = "Haru-tan.Photon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
