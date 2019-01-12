@@ -1,7 +1,6 @@
 //
 //  ViewController.swift
 //  Photon
-//
 //  Created by Haru-tan on 06/01/2019.
 //  Copyright © 2019 Haru-tan. All rights reserved.
 //  This file is inactive. Used for testing new functionality.
