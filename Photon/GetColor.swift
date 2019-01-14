@@ -8,7 +8,7 @@
 
 import Foundation
 import Cocoa
-//import Wallpaper
+import Wallpaper
 import Witness
 import EonilFSEvents
 import ORSSerial
@@ -20,11 +20,13 @@ var rString = "0"
 var gString = "0"
 var bString = "0"
 
+
 func getColor() {
     
-    let url = NSWorkspace.shared.desktopImageURL(for: NSScreen.screens[0])
-    //let url = try! Wallpaper.get(screen: .main)
-    let beginImage = CIImage(contentsOf: url!)!
+    //let url = NSWorkspace.shared.desktopImageURL(for: NSScreen.screens[0]) //Old method!
+    usleep(400000)
+    let url = try! Wallpaper.get(screen: .main)
+    let beginImage = CIImage(contentsOf: url[0])!  //Wallpaper library delivers url as an array, so we're passing the zero index
     let extentVector = CIVector(x: beginImage.extent.origin.x, y: beginImage.extent.origin.y, z: beginImage.extent.size.width, w: beginImage.extent.size.height)
     let filter = CIFilter(name: "CIAreaAverage")!
     filter.setValue(beginImage, forKey: kCIInputImageKey)
@@ -49,6 +51,6 @@ func getColor() {
     gString = String(format: "%03d", gInt)
     bString = String(format: "%03d", bInt)
     sendingString = rString + gString + bString + "\n"
-    print(sendingString)
+    //print(sendingString)
 
 }
