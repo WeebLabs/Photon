@@ -1,0 +1,194 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EonilFSEvents"
+provides-nominal:
+- "13EonilFSEventsAAV"
+provides-member:
+- ["13EonilFSEventsAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "DispatchQueue"
+- "EonilFSEventStream"
+- "EonilFSEvents"
+- "EonilFSEventsEvent"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "ObjectIdentifier"
+- "String"
+- !private "StringLiteralType"
+- !private "Thread"
+- !private "assert"
+- !private "watchers"
+depends-member:
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isMainThread"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "subscript"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "fileEvents"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "isMainThread"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "noDefer"]
+- !private ["s28CustomDebugStringConvertibleP", "setDispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "stop"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "fileEvents"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidate"]
+- !private ["s23CustomStringConvertibleP", "isMainThread"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "noDefer"]
+- !private ["s23CustomStringConvertibleP", "setDispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "stop"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "init"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "invalidate"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "setDispatchQueue"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "start"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "stop"]
+- !private ["13EonilFSEventsAAV", "DispatchQueue"]
+- !private ["13EonilFSEventsAAV", "EonilFSEventStream"]
+- ["13EonilFSEventsAAV", "EonilFSEventsEvent"]
+- ["13EonilFSEventsAAV", "ObjectIdentifier"]
+- ["13EonilFSEventsAAV", "String"]
+- !private ["13EonilFSEventsAAV", "Thread"]
+- !private ["13EonilFSEventsAAV", "assert"]
+- ["13EonilFSEventsAAV", "init"]
+- ["13EonilFSEventsAAV", "startWatching"]
+- ["13EonilFSEventsAAV", "stopWatching"]
+- !private ["13EonilFSEventsAAV", "watchers"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "deinit"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "fileEvents"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "noDefer"]
+- !private ["13EonilFSEvents0aB7EventIDV", "now"]
+- !private ["SQ", "fileEvents"]
+- ["SQ", "init"]
+- !private ["SQ", "isMainThread"]
+- !private ["SQ", "main"]
+- !private ["SQ", "noDefer"]
+- !private ["SQ", "now"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "fileEvents"]
+- !private ["s25ExpressibleByArrayLiteralP", "noDefer"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "fileEvents"]
+- ["SH", "init"]
+- !private ["SH", "isMainThread"]
+- !private ["SH", "main"]
+- !private ["SH", "noDefer"]
+- !private ["SH", "now"]
+- !private ["SH", "subscript"]
+- !private ["So8NSObjectC", "isMainThread"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectP", "isMainThread"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So9OS_objectC", "main"]
+- !private ["s9OptionSetP", "fileEvents"]
+- !private ["s9OptionSetP", "noDefer"]
+- !private ["SY", "fileEvents"]
+- !private ["SY", "noDefer"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "fileEvents"]
+- !private ["s10SetAlgebraP", "noDefer"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["So8NSThreadC", "isMainThread"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isMainThread"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "s7CVarArgP"
+- "Sl"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SD"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SE"
+- !private "13EonilFSEvents0A13FSEventStreamC"
+- "13EonilFSEventsAAV"
+- !private "13EonilFSEvents0aB11CreateFlagsV"
+- !private "13EonilFSEvents0aB7EventIDV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So9OS_objectC"
+- !private "s9OptionSetP"
+- !private "SY"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "s12StaticStringV"
+- !private "So8NSThreadC"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "927400933b52b26cd537cb5cc3154ae3"

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D4B03C9E-6626-48C3-8394-B1305108A656</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>D4B03C9E-6626-48C3-8394-B1305108A656.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>EonilFSEvents-fqwmwcqwjiahlacjzmvoqjkpnamt</string>
+			<key>timeStartedRecording</key>
+			<real>569122661.68440795</real>
+			<key>timeStoppedRecording</key>
+			<real>569122662.11223495</real>
+			<key>title</key>
+			<string>Build target EonilFSEvents</string>
+			<key>uniqueIdentifier</key>
+			<string>D4B03C9E-6626-48C3-8394-B1305108A656</string>
+		</dict>
+		<key>F74114B8-9A7A-4405-A33E-852188FFA65D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F74114B8-9A7A-4405-A33E-852188FFA65D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Photon-dxcegthnozpwzuakerpmrvriyrba</string>
+			<key>timeStartedRecording</key>
+			<real>569123824.23131597</real>
+			<key>timeStoppedRecording</key>
+			<real>569123825.09895205</real>
+			<key>title</key>
+			<string>Build target Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>F74114B8-9A7A-4405-A33E-852188FFA65D</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,788 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "firstRun"
+- "AppDelegate"
+provides-nominal:
+- "6Photon11AppDelegateC"
+provides-member:
+- ["6Photon11AppDelegateC", ""]
+provides-dynamic-lookup:
+- "applicationDidFinishLaunching"
+depends-top-level:
+- !private "+"
+- !private "=="
+- "AppDelegate"
+- !private "Array"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "EonilFSEvents"
+- !private "FileManager"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "NSApplication"
+- "NSApplicationDelegate"
+- !private "NSImage"
+- !private "NSMenu"
+- !private "NSMenuItem"
+- "NSObject"
+- "NSStatusBar"
+- "NSStatusItem"
+- "Notification"
+- !private "ObjectIdentifier"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- "firstRun"
+- !private "runProcess"
+- !private "sleep"
+depends-member:
+- !private ["6Photon11AppDelegateC", "EonilFSEvents"]
+- !private ["6Photon11AppDelegateC", "FileManager"]
+- !private ["6Photon11AppDelegateC", "NSApplication"]
+- !private ["6Photon11AppDelegateC", "NSImage"]
+- !private ["6Photon11AppDelegateC", "NSMenu"]
+- !private ["6Photon11AppDelegateC", "NSMenuItem"]
+- ["6Photon11AppDelegateC", "NSStatusBar"]
+- ["6Photon11AppDelegateC", "NSStatusItem"]
+- ["6Photon11AppDelegateC", "Notification"]
+- !private ["6Photon11AppDelegateC", "ObjectIdentifier"]
+- ["6Photon11AppDelegateC", "application"]
+- ["6Photon11AppDelegateC", "applicationDidBecomeActive"]
+- ["6Photon11AppDelegateC", "applicationDidChangeOcclusionState"]
+- ["6Photon11AppDelegateC", "applicationDidChangeScreenParameters"]
+- ["6Photon11AppDelegateC", "applicationDidFinishLaunching"]
+- ["6Photon11AppDelegateC", "applicationDidHide"]
+- ["6Photon11AppDelegateC", "applicationDidResignActive"]
+- ["6Photon11AppDelegateC", "applicationDidUnhide"]
+- ["6Photon11AppDelegateC", "applicationDidUpdate"]
+- ["6Photon11AppDelegateC", "applicationDockMenu"]
+- ["6Photon11AppDelegateC", "applicationOpenUntitledFile"]
+- ["6Photon11AppDelegateC", "applicationShouldHandleReopen"]
+- ["6Photon11AppDelegateC", "applicationShouldOpenUntitledFile"]
+- ["6Photon11AppDelegateC", "applicationShouldTerminate"]
+- ["6Photon11AppDelegateC", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["6Photon11AppDelegateC", "applicationWillBecomeActive"]
+- ["6Photon11AppDelegateC", "applicationWillFinishLaunching"]
+- ["6Photon11AppDelegateC", "applicationWillHide"]
+- ["6Photon11AppDelegateC", "applicationWillResignActive"]
+- ["6Photon11AppDelegateC", "applicationWillTerminate"]
+- ["6Photon11AppDelegateC", "applicationWillUnhide"]
+- ["6Photon11AppDelegateC", "applicationWillUpdate"]
+- ["6Photon11AppDelegateC", "constructMenu"]
+- ["6Photon11AppDelegateC", "deinit"]
+- !private ["6Photon11AppDelegateC", "firstRun"]
+- ["6Photon11AppDelegateC", "init"]
+- !private ["6Photon11AppDelegateC", "runProcess"]
+- !private ["6Photon11AppDelegateC", "sleep"]
+- ["6Photon11AppDelegateC", "statusItem"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["6SQLite7BindingP", "_getBuiltinLogicValue"]
+- !private ["6SQLite7BindingP", "init"]
+- !private ["6SQLite7BindingP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "EonilFSEvents"]
+- !private ["s7CVarArgP", "FileManager"]
+- !private ["s7CVarArgP", "NSApplication"]
+- !private ["s7CVarArgP", "NSImage"]
+- !private ["s7CVarArgP", "NSMenu"]
+- !private ["s7CVarArgP", "NSMenuItem"]
+- ["s7CVarArgP", "NSStatusBar"]
+- ["s7CVarArgP", "NSStatusItem"]
+- !private ["s7CVarArgP", "Name"]
+- !private ["s7CVarArgP", "ObjectIdentifier"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addItem"]
+- ["s7CVarArgP", "application"]
+- ["s7CVarArgP", "applicationDidBecomeActive"]
+- ["s7CVarArgP", "applicationDidChangeOcclusionState"]
+- ["s7CVarArgP", "applicationDidChangeScreenParameters"]
+- ["s7CVarArgP", "applicationDidFinishLaunching"]
+- ["s7CVarArgP", "applicationDidHide"]
+- ["s7CVarArgP", "applicationDidResignActive"]
+- ["s7CVarArgP", "applicationDidUnhide"]
+- ["s7CVarArgP", "applicationDidUpdate"]
+- ["s7CVarArgP", "applicationDockMenu"]
+- ["s7CVarArgP", "applicationOpenUntitledFile"]
+- ["s7CVarArgP", "applicationShouldHandleReopen"]
+- ["s7CVarArgP", "applicationShouldOpenUntitledFile"]
+- ["s7CVarArgP", "applicationShouldTerminate"]
+- ["s7CVarArgP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["s7CVarArgP", "applicationWillBecomeActive"]
+- ["s7CVarArgP", "applicationWillFinishLaunching"]
+- ["s7CVarArgP", "applicationWillHide"]
+- ["s7CVarArgP", "applicationWillResignActive"]
+- ["s7CVarArgP", "applicationWillTerminate"]
+- ["s7CVarArgP", "applicationWillUnhide"]
+- ["s7CVarArgP", "applicationWillUpdate"]
+- !private ["s7CVarArgP", "button"]
+- !private ["s7CVarArgP", "constructMenu"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "firstRun"]
+- !private ["s7CVarArgP", "homeDirectoryForCurrentUser"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "menu"]
+- !private ["s7CVarArgP", "runProcess"]
+- !private ["s7CVarArgP", "sleep"]
+- ["s7CVarArgP", "squareLength"]
+- ["s7CVarArgP", "statusItem"]
+- ["s7CVarArgP", "system"]
+- !private ["s7CVarArgP", "terminate"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEvents"]
+- !private ["s28CustomDebugStringConvertibleP", "FileManager"]
+- !private ["s28CustomDebugStringConvertibleP", "NSApplication"]
+- !private ["s28CustomDebugStringConvertibleP", "NSImage"]
+- !private ["s28CustomDebugStringConvertibleP", "NSMenu"]
+- !private ["s28CustomDebugStringConvertibleP", "NSMenuItem"]
+- ["s28CustomDebugStringConvertibleP", "NSStatusBar"]
+- ["s28CustomDebugStringConvertibleP", "NSStatusItem"]
+- !private ["s28CustomDebugStringConvertibleP", "Name"]
+- !private ["s28CustomDebugStringConvertibleP", "ObjectIdentifier"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addItem"]
+- ["s28CustomDebugStringConvertibleP", "application"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidBecomeActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidChangeOcclusionState"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidChangeScreenParameters"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidFinishLaunching"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidHide"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidResignActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidUnhide"]
+- ["s28CustomDebugStringConvertibleP", "applicationDidUpdate"]
+- ["s28CustomDebugStringConvertibleP", "applicationDockMenu"]
+- ["s28CustomDebugStringConvertibleP", "applicationOpenUntitledFile"]
+- ["s28CustomDebugStringConvertibleP", "applicationShouldHandleReopen"]
+- ["s28CustomDebugStringConvertibleP", "applicationShouldOpenUntitledFile"]
+- ["s28CustomDebugStringConvertibleP", "applicationShouldTerminate"]
+- ["s28CustomDebugStringConvertibleP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillBecomeActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillFinishLaunching"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillHide"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillResignActive"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillTerminate"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillUnhide"]
+- ["s28CustomDebugStringConvertibleP", "applicationWillUpdate"]
+- !private ["s28CustomDebugStringConvertibleP", "button"]
+- !private ["s28CustomDebugStringConvertibleP", "constructMenu"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "firstRun"]
+- !private ["s28CustomDebugStringConvertibleP", "homeDirectoryForCurrentUser"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "menu"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "runProcess"]
+- !private ["s28CustomDebugStringConvertibleP", "sleep"]
+- ["s28CustomDebugStringConvertibleP", "squareLength"]
+- ["s28CustomDebugStringConvertibleP", "statusItem"]
+- ["s28CustomDebugStringConvertibleP", "system"]
+- !private ["s28CustomDebugStringConvertibleP", "terminate"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "path"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEvents"]
+- !private ["s23CustomStringConvertibleP", "FileManager"]
+- !private ["s23CustomStringConvertibleP", "NSApplication"]
+- !private ["s23CustomStringConvertibleP", "NSImage"]
+- !private ["s23CustomStringConvertibleP", "NSMenu"]
+- !private ["s23CustomStringConvertibleP", "NSMenuItem"]
+- ["s23CustomStringConvertibleP", "NSStatusBar"]
+- ["s23CustomStringConvertibleP", "NSStatusItem"]
+- !private ["s23CustomStringConvertibleP", "Name"]
+- !private ["s23CustomStringConvertibleP", "ObjectIdentifier"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addItem"]
+- ["s23CustomStringConvertibleP", "application"]
+- ["s23CustomStringConvertibleP", "applicationDidBecomeActive"]
+- ["s23CustomStringConvertibleP", "applicationDidChangeOcclusionState"]
+- ["s23CustomStringConvertibleP", "applicationDidChangeScreenParameters"]
+- ["s23CustomStringConvertibleP", "applicationDidFinishLaunching"]
+- ["s23CustomStringConvertibleP", "applicationDidHide"]
+- ["s23CustomStringConvertibleP", "applicationDidResignActive"]
+- ["s23CustomStringConvertibleP", "applicationDidUnhide"]
+- ["s23CustomStringConvertibleP", "applicationDidUpdate"]
+- ["s23CustomStringConvertibleP", "applicationDockMenu"]
+- ["s23CustomStringConvertibleP", "applicationOpenUntitledFile"]
+- ["s23CustomStringConvertibleP", "applicationShouldHandleReopen"]
+- ["s23CustomStringConvertibleP", "applicationShouldOpenUntitledFile"]
+- ["s23CustomStringConvertibleP", "applicationShouldTerminate"]
+- ["s23CustomStringConvertibleP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["s23CustomStringConvertibleP", "applicationWillBecomeActive"]
+- ["s23CustomStringConvertibleP", "applicationWillFinishLaunching"]
+- ["s23CustomStringConvertibleP", "applicationWillHide"]
+- ["s23CustomStringConvertibleP", "applicationWillResignActive"]
+- ["s23CustomStringConvertibleP", "applicationWillTerminate"]
+- ["s23CustomStringConvertibleP", "applicationWillUnhide"]
+- ["s23CustomStringConvertibleP", "applicationWillUpdate"]
+- !private ["s23CustomStringConvertibleP", "button"]
+- !private ["s23CustomStringConvertibleP", "constructMenu"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "firstRun"]
+- !private ["s23CustomStringConvertibleP", "homeDirectoryForCurrentUser"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "menu"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "runProcess"]
+- !private ["s23CustomStringConvertibleP", "sleep"]
+- ["s23CustomStringConvertibleP", "squareLength"]
+- ["s23CustomStringConvertibleP", "statusItem"]
+- ["s23CustomStringConvertibleP", "system"]
+- !private ["s23CustomStringConvertibleP", "terminate"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "path"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "path"]
+- !private ["13EonilFSEventsAAV", "startWatching"]
+- !private ["SQ", "EonilFSEvents"]
+- !private ["SQ", "FileManager"]
+- !private ["SQ", "NSApplication"]
+- !private ["SQ", "NSImage"]
+- !private ["SQ", "NSMenu"]
+- !private ["SQ", "NSMenuItem"]
+- ["SQ", "NSStatusBar"]
+- ["SQ", "NSStatusItem"]
+- !private ["SQ", "Name"]
+- !private ["SQ", "ObjectIdentifier"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addItem"]
+- ["SQ", "application"]
+- ["SQ", "applicationDidBecomeActive"]
+- ["SQ", "applicationDidChangeOcclusionState"]
+- ["SQ", "applicationDidChangeScreenParameters"]
+- ["SQ", "applicationDidFinishLaunching"]
+- ["SQ", "applicationDidHide"]
+- ["SQ", "applicationDidResignActive"]
+- ["SQ", "applicationDidUnhide"]
+- ["SQ", "applicationDidUpdate"]
+- ["SQ", "applicationDockMenu"]
+- ["SQ", "applicationOpenUntitledFile"]
+- ["SQ", "applicationShouldHandleReopen"]
+- ["SQ", "applicationShouldOpenUntitledFile"]
+- ["SQ", "applicationShouldTerminate"]
+- ["SQ", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["SQ", "applicationWillBecomeActive"]
+- ["SQ", "applicationWillFinishLaunching"]
+- ["SQ", "applicationWillHide"]
+- ["SQ", "applicationWillResignActive"]
+- ["SQ", "applicationWillTerminate"]
+- ["SQ", "applicationWillUnhide"]
+- ["SQ", "applicationWillUpdate"]
+- !private ["SQ", "button"]
+- !private ["SQ", "constructMenu"]
+- !private ["SQ", "default"]
+- !private ["SQ", "firstRun"]
+- !private ["SQ", "homeDirectoryForCurrentUser"]
+- !private ["SQ", "image"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "menu"]
+- !private ["SQ", "path"]
+- !private ["SQ", "runProcess"]
+- !private ["SQ", "sleep"]
+- ["SQ", "squareLength"]
+- ["SQ", "statusItem"]
+- ["SQ", "system"]
+- !private ["SQ", "terminate"]
+- !private ["6SQLite11ExpressibleP", "_getBuiltinLogicValue"]
+- !private ["6SQLite11ExpressibleP", "init"]
+- !private ["6SQLite11ExpressibleP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So13NSFileManagerC", "default"]
+- !private ["So13NSFileManagerC", "homeDirectoryForCurrentUser"]
+- !private ["SH", "EonilFSEvents"]
+- !private ["SH", "FileManager"]
+- !private ["SH", "NSApplication"]
+- !private ["SH", "NSImage"]
+- !private ["SH", "NSMenu"]
+- !private ["SH", "NSMenuItem"]
+- ["SH", "NSStatusBar"]
+- ["SH", "NSStatusItem"]
+- !private ["SH", "Name"]
+- !private ["SH", "ObjectIdentifier"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addItem"]
+- ["SH", "application"]
+- ["SH", "applicationDidBecomeActive"]
+- ["SH", "applicationDidChangeOcclusionState"]
+- ["SH", "applicationDidChangeScreenParameters"]
+- ["SH", "applicationDidFinishLaunching"]
+- ["SH", "applicationDidHide"]
+- ["SH", "applicationDidResignActive"]
+- ["SH", "applicationDidUnhide"]
+- ["SH", "applicationDidUpdate"]
+- ["SH", "applicationDockMenu"]
+- ["SH", "applicationOpenUntitledFile"]
+- ["SH", "applicationShouldHandleReopen"]
+- ["SH", "applicationShouldOpenUntitledFile"]
+- ["SH", "applicationShouldTerminate"]
+- ["SH", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["SH", "applicationWillBecomeActive"]
+- ["SH", "applicationWillFinishLaunching"]
+- ["SH", "applicationWillHide"]
+- ["SH", "applicationWillResignActive"]
+- ["SH", "applicationWillTerminate"]
+- ["SH", "applicationWillUnhide"]
+- ["SH", "applicationWillUpdate"]
+- !private ["SH", "button"]
+- !private ["SH", "constructMenu"]
+- !private ["SH", "default"]
+- !private ["SH", "firstRun"]
+- !private ["SH", "homeDirectoryForCurrentUser"]
+- !private ["SH", "image"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "menu"]
+- !private ["SH", "path"]
+- !private ["SH", "runProcess"]
+- !private ["SH", "sleep"]
+- ["SH", "squareLength"]
+- ["SH", "statusItem"]
+- ["SH", "system"]
+- !private ["SH", "terminate"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So21NSAccessibilityButtonP", "image"]
+- !private ["So22NSAccessibilityElementP", "addItem"]
+- !private ["So22NSAccessibilityElementP", "image"]
+- !private ["So22NSAccessibilityElementP", "init"]
+- !private ["So22NSAccessibilityElementP", "terminate"]
+- !private ["So15NSAccessibilityP", "addItem"]
+- !private ["So15NSAccessibilityP", "image"]
+- !private ["So15NSAccessibilityP", "init"]
+- !private ["So15NSAccessibilityP", "terminate"]
+- !private ["So29NSAnimatablePropertyContainerP", "image"]
+- !private ["So25NSAppearanceCustomizationP", "image"]
+- !private ["So25NSAppearanceCustomizationP", "terminate"]
+- !private ["So13NSApplicationC", "terminate"]
+- !private ["So21NSApplicationDelegateP", "EonilFSEvents"]
+- !private ["So21NSApplicationDelegateP", "FileManager"]
+- !private ["So21NSApplicationDelegateP", "NSApplication"]
+- !private ["So21NSApplicationDelegateP", "NSImage"]
+- !private ["So21NSApplicationDelegateP", "NSMenu"]
+- !private ["So21NSApplicationDelegateP", "NSMenuItem"]
+- ["So21NSApplicationDelegateP", "NSStatusBar"]
+- ["So21NSApplicationDelegateP", "NSStatusItem"]
+- !private ["So21NSApplicationDelegateP", "ObjectIdentifier"]
+- ["So21NSApplicationDelegateP", ""]
+- ["So21NSApplicationDelegateP", "application"]
+- ["So21NSApplicationDelegateP", "applicationDidBecomeActive"]
+- ["So21NSApplicationDelegateP", "applicationDidChangeOcclusionState"]
+- ["So21NSApplicationDelegateP", "applicationDidChangeScreenParameters"]
+- ["So21NSApplicationDelegateP", "applicationDidFinishLaunching"]
+- ["So21NSApplicationDelegateP", "applicationDidHide"]
+- ["So21NSApplicationDelegateP", "applicationDidResignActive"]
+- ["So21NSApplicationDelegateP", "applicationDidUnhide"]
+- ["So21NSApplicationDelegateP", "applicationDidUpdate"]
+- ["So21NSApplicationDelegateP", "applicationDockMenu"]
+- ["So21NSApplicationDelegateP", "applicationOpenUntitledFile"]
+- ["So21NSApplicationDelegateP", "applicationShouldHandleReopen"]
+- ["So21NSApplicationDelegateP", "applicationShouldOpenUntitledFile"]
+- ["So21NSApplicationDelegateP", "applicationShouldTerminate"]
+- ["So21NSApplicationDelegateP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["So21NSApplicationDelegateP", "applicationWillBecomeActive"]
+- ["So21NSApplicationDelegateP", "applicationWillFinishLaunching"]
+- ["So21NSApplicationDelegateP", "applicationWillHide"]
+- ["So21NSApplicationDelegateP", "applicationWillResignActive"]
+- ["So21NSApplicationDelegateP", "applicationWillTerminate"]
+- ["So21NSApplicationDelegateP", "applicationWillUnhide"]
+- ["So21NSApplicationDelegateP", "applicationWillUpdate"]
+- !private ["So21NSApplicationDelegateP", "constructMenu"]
+- !private ["So21NSApplicationDelegateP", "firstRun"]
+- !private ["So21NSApplicationDelegateP", "runProcess"]
+- !private ["So21NSApplicationDelegateP", "sleep"]
+- !private ["So21NSApplicationDelegateP", "statusItem"]
+- !private ["So8NSButtonC", "image"]
+- !private ["So8NSCodingP", "Name"]
+- !private ["So8NSCodingP", "addItem"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "terminate"]
+- !private ["So9NSControlC", "image"]
+- !private ["So9NSCopyingP", "Name"]
+- !private ["So9NSCopyingP", "addItem"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSDraggingDestinationP", "image"]
+- !private ["So7NSImageC", "Name"]
+- !private ["So7NSImageC", "init"]
+- !private ["So6NSMenuC", "addItem"]
+- !private ["So6NSMenuC", "init"]
+- !private ["So10NSMenuItemC", "init"]
+- !private ["So20NSMenuItemValidationP", "terminate"]
+- !private ["So8NSObjectC", "EonilFSEvents"]
+- !private ["So8NSObjectC", "FileManager"]
+- !private ["So8NSObjectC", "NSApplication"]
+- !private ["So8NSObjectC", "NSImage"]
+- !private ["So8NSObjectC", "NSMenu"]
+- !private ["So8NSObjectC", "NSMenuItem"]
+- ["So8NSObjectC", "NSStatusBar"]
+- ["So8NSObjectC", "NSStatusItem"]
+- !private ["So8NSObjectC", "Name"]
+- ["So8NSObjectC", "Notification"]
+- !private ["So8NSObjectC", "ObjectIdentifier"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "addItem"]
+- ["So8NSObjectC", "application"]
+- ["So8NSObjectC", "applicationDidBecomeActive"]
+- ["So8NSObjectC", "applicationDidChangeOcclusionState"]
+- ["So8NSObjectC", "applicationDidChangeScreenParameters"]
+- ["So8NSObjectC", "applicationDidFinishLaunching"]
+- ["So8NSObjectC", "applicationDidHide"]
+- ["So8NSObjectC", "applicationDidResignActive"]
+- ["So8NSObjectC", "applicationDidUnhide"]
+- ["So8NSObjectC", "applicationDidUpdate"]
+- ["So8NSObjectC", "applicationDockMenu"]
+- ["So8NSObjectC", "applicationOpenUntitledFile"]
+- ["So8NSObjectC", "applicationShouldHandleReopen"]
+- ["So8NSObjectC", "applicationShouldOpenUntitledFile"]
+- ["So8NSObjectC", "applicationShouldTerminate"]
+- ["So8NSObjectC", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["So8NSObjectC", "applicationWillBecomeActive"]
+- ["So8NSObjectC", "applicationWillFinishLaunching"]
+- ["So8NSObjectC", "applicationWillHide"]
+- ["So8NSObjectC", "applicationWillResignActive"]
+- ["So8NSObjectC", "applicationWillTerminate"]
+- ["So8NSObjectC", "applicationWillUnhide"]
+- ["So8NSObjectC", "applicationWillUpdate"]
+- !private ["So8NSObjectC", "button"]
+- ["So8NSObjectC", "constructMenu"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "firstRun"]
+- !private ["So8NSObjectC", "homeDirectoryForCurrentUser"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "menu"]
+- !private ["So8NSObjectC", "runProcess"]
+- !private ["So8NSObjectC", "sleep"]
+- ["So8NSObjectC", "squareLength"]
+- ["So8NSObjectC", "statusItem"]
+- ["So8NSObjectC", "system"]
+- !private ["So8NSObjectC", "terminate"]
+- !private ["So8NSObjectP", "EonilFSEvents"]
+- !private ["So8NSObjectP", "FileManager"]
+- !private ["So8NSObjectP", "NSApplication"]
+- !private ["So8NSObjectP", "NSImage"]
+- !private ["So8NSObjectP", "NSMenu"]
+- !private ["So8NSObjectP", "NSMenuItem"]
+- ["So8NSObjectP", "NSStatusBar"]
+- ["So8NSObjectP", "NSStatusItem"]
+- !private ["So8NSObjectP", "Name"]
+- !private ["So8NSObjectP", "ObjectIdentifier"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addItem"]
+- ["So8NSObjectP", "application"]
+- ["So8NSObjectP", "applicationDidBecomeActive"]
+- ["So8NSObjectP", "applicationDidChangeOcclusionState"]
+- ["So8NSObjectP", "applicationDidChangeScreenParameters"]
+- ["So8NSObjectP", "applicationDidFinishLaunching"]
+- ["So8NSObjectP", "applicationDidHide"]
+- ["So8NSObjectP", "applicationDidResignActive"]
+- ["So8NSObjectP", "applicationDidUnhide"]
+- ["So8NSObjectP", "applicationDidUpdate"]
+- ["So8NSObjectP", "applicationDockMenu"]
+- ["So8NSObjectP", "applicationOpenUntitledFile"]
+- ["So8NSObjectP", "applicationShouldHandleReopen"]
+- ["So8NSObjectP", "applicationShouldOpenUntitledFile"]
+- ["So8NSObjectP", "applicationShouldTerminate"]
+- ["So8NSObjectP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["So8NSObjectP", "applicationWillBecomeActive"]
+- ["So8NSObjectP", "applicationWillFinishLaunching"]
+- ["So8NSObjectP", "applicationWillHide"]
+- ["So8NSObjectP", "applicationWillResignActive"]
+- ["So8NSObjectP", "applicationWillTerminate"]
+- ["So8NSObjectP", "applicationWillUnhide"]
+- ["So8NSObjectP", "applicationWillUpdate"]
+- !private ["So8NSObjectP", "button"]
+- !private ["So8NSObjectP", "constructMenu"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "firstRun"]
+- !private ["So8NSObjectP", "homeDirectoryForCurrentUser"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "menu"]
+- !private ["So8NSObjectP", "runProcess"]
+- !private ["So8NSObjectP", "sleep"]
+- ["So8NSObjectP", "squareLength"]
+- ["So8NSObjectP", "statusItem"]
+- ["So8NSObjectP", "system"]
+- !private ["So8NSObjectP", "terminate"]
+- !private ["So19NSPasteboardReadingP", "Name"]
+- !private ["So19NSPasteboardReadingP", "init"]
+- !private ["So19NSPasteboardWritingP", "Name"]
+- !private ["So19NSPasteboardWritingP", "init"]
+- !private ["So11NSResponderC", "image"]
+- !private ["So11NSResponderC", "terminate"]
+- !private ["So14NSSecureCodingP", "Name"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So30NSStandardKeyBindingRespondingP", "image"]
+- !private ["So30NSStandardKeyBindingRespondingP", "terminate"]
+- ["So11NSStatusBarC", "statusItem"]
+- ["So11NSStatusBarC", "system"]
+- !private ["So17NSStatusBarButtonC", "image"]
+- !private ["So12NSStatusItemC", "button"]
+- !private ["So12NSStatusItemC", "menu"]
+- ["So12NSStatusItemC", "squareLength"]
+- !private ["So18NSTouchBarProviderP", "image"]
+- !private ["So18NSTouchBarProviderP", "terminate"]
+- !private ["So23NSUserActivityRestoringP", "image"]
+- !private ["So23NSUserActivityRestoringP", "terminate"]
+- !private ["So26NSUserInterfaceCompressionP", "image"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "addItem"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "image"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "init"]
+- !private ["So26NSUserInterfaceValidationsP", "image"]
+- !private ["So26NSUserInterfaceValidationsP", "terminate"]
+- !private ["So28NSValidatedUserInterfaceItemP", "init"]
+- !private ["So6NSViewC", "image"]
+- !private ["SO", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "path"]
+- !private ["6SQLite5ValueP", "_getBuiltinLogicValue"]
+- !private ["6SQLite5ValueP", "init"]
+- !private ["6SQLite5ValueP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- !private ["s26_ExpressibleByImageLiteralP", "Name"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "EonilFSEvents"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSApplication"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMenu"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSMenuItem"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSStatusBar"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSStatusItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ObjectIdentifier"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addItem"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "application"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidBecomeActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidChangeOcclusionState"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidChangeScreenParameters"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidFinishLaunching"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidHide"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidResignActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidUnhide"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDidUpdate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationDockMenu"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationOpenUntitledFile"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationShouldHandleReopen"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationShouldOpenUntitledFile"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationShouldTerminate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillBecomeActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillFinishLaunching"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillHide"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillResignActive"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillTerminate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillUnhide"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationWillUpdate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "button"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constructMenu"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "firstRun"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "homeDirectoryForCurrentUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "menu"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "runProcess"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sleep"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "squareLength"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "statusItem"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "system"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "terminate"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "6Photon11AppDelegateC"
+- !private "SK"
+- !private "6SQLite7BindingP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "13EonilFSEventsAAV"
+- "SQ"
+- !private "6SQLite11ExpressibleP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So13NSFileManagerC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So21NSAccessibilityButtonP"
+- !private "So22NSAccessibilityElementP"
+- !private "So15NSAccessibilityP"
+- !private "So29NSAnimatablePropertyContainerP"
+- !private "So25NSAppearanceCustomizationP"
+- !private "So13NSApplicationC"
+- "So21NSApplicationDelegateP"
+- !private "So8NSButtonC"
+- !private "So8NSCodingP"
+- !private "So9NSControlC"
+- !private "So9NSCopyingP"
+- !private "So21NSDraggingDestinationP"
+- !private "So7NSImageC"
+- !private "So6NSMenuC"
+- !private "So10NSMenuItemC"
+- !private "So20NSMenuItemValidationP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So19NSPasteboardReadingP"
+- !private "So19NSPasteboardWritingP"
+- !private "So11NSResponderC"
+- !private "So14NSSecureCodingP"
+- !private "So30NSStandardKeyBindingRespondingP"
+- "So11NSStatusBarC"
+- !private "So17NSStatusBarButtonC"
+- "So12NSStatusItemC"
+- !private "So18NSTouchBarProviderP"
+- !private "So23NSUserActivityRestoringP"
+- !private "So26NSUserInterfaceCompressionP"
+- !private "So33NSUserInterfaceItemIdentificationP"
+- !private "So26NSUserInterfaceValidationsP"
+- !private "So28NSValidatedUserInterfaceItemP"
+- !private "So6NSViewC"
+- !private "SO"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "6SQLite5ValueP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/haru-tan/Photon/CocoaMQTT.framework/Modules/CocoaMQTT.swiftmodule/x86_64.swiftmodule"
+- "/Users/haru-tan/Photon/SQLite.framework/Modules/SQLite.swiftmodule/x86_64.swiftmodule"
+- "/Users/haru-tan/Photon/Wallpaper.framework/Modules/Wallpaper.swiftmodule/x86_64.swiftmodule"
+- "/Users/haru-tan/Photon/Witness.framework/Modules/Witness.swiftmodule/x86_64.swiftmodule"
+- "/Users/haru-tan/Photon/DerivedData/Photon/Build/Products/Debug/EonilFSEvents.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/haru-tan/Photon/CocoaMQTT.framework/Headers/CocoaMQTT.h"
+- "/Users/haru-tan/Photon/SQLite.framework/Headers/SQLite.h"
+- "/Users/haru-tan/Photon/SQLite.framework/Headers/SQLite-Bridging.h"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Headers/ORSSerial.h"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Headers/ORSSerialPortManager.h"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Headers/ORSSerialPacketDescriptor.h"
+- "/Users/haru-tan/Photon/CocoaAsyncSocket.framework/Headers/GCDAsyncSocket.h"
+- "/Users/haru-tan/Photon/CocoaAsyncSocket.framework/Headers/CocoaAsyncSocket.h"
+- "/Users/haru-tan/Photon/CocoaAsyncSocket.framework/Headers/GCDAsyncUdpSocket.h"
+- "/Users/haru-tan/Photon/CocoaMQTT.framework/Headers/CocoaMQTT-Swift.h"
+- "/Users/haru-tan/Photon/SQLite.framework/Headers/SQLite-Swift.h"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Headers/ORSSerialPort.h"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Headers/ORSSerialRequest.h"
+- "/Users/haru-tan/Photon/CocoaMQTT.framework/Modules/module.modulemap"
+- "/Users/haru-tan/Photon/SQLite.framework/Modules/module.modulemap"
+- "/Users/haru-tan/Photon/ORSSerial.framework/Modules/module.modulemap"
+- "/Users/haru-tan/Photon/CocoaAsyncSocket.framework/Modules/module.modulemap"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "65ccb255c8d16bde9a02f229286a4be3"

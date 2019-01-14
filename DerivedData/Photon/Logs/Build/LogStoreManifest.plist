@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>029BB3A7-D789-4941-98B0-09BA0A857A3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>029BB3A7-D789-4941-98B0-09BA0A857A3F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011185.69060802</real>
+			<key>timeStoppedRecording</key>
+			<real>569011185.72785902</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>029BB3A7-D789-4941-98B0-09BA0A857A3F</string>
+		</dict>
+		<key>05D71467-8EA5-4CD6-B916-57ED61054CF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05D71467-8EA5-4CD6-B916-57ED61054CF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569014627.121086</real>
+			<key>timeStoppedRecording</key>
+			<real>569014627.45421803</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>05D71467-8EA5-4CD6-B916-57ED61054CF5</string>
+		</dict>
+		<key>06A743B8-78FD-427F-BE4E-A65A88D9DD9E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06A743B8-78FD-427F-BE4E-A65A88D9DD9E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121935.13564599</real>
+			<key>timeStoppedRecording</key>
+			<real>569121938.17172801</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>06A743B8-78FD-427F-BE4E-A65A88D9DD9E</string>
+		</dict>
+		<key>0862C8C5-DCE1-4150-9E88-2BC5E7054767</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0862C8C5-DCE1-4150-9E88-2BC5E7054767.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119908.93773103</real>
+			<key>timeStoppedRecording</key>
+			<real>569119909.41036999</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>0862C8C5-DCE1-4150-9E88-2BC5E7054767</string>
+		</dict>
+		<key>08D2471C-E7FD-4533-8F13-D0920D0BCE7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08D2471C-E7FD-4533-8F13-D0920D0BCE7F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122661.60745502</real>
+			<key>timeStoppedRecording</key>
+			<real>569122664.57156003</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>08D2471C-E7FD-4533-8F13-D0920D0BCE7F</string>
+		</dict>
+		<key>0D0D2875-19F7-4916-BEC5-B6577098BF14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D0D2875-19F7-4916-BEC5-B6577098BF14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120160.88750505</real>
+			<key>timeStoppedRecording</key>
+			<real>569120161.242239</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>0D0D2875-19F7-4916-BEC5-B6577098BF14</string>
+		</dict>
+		<key>0F1FCD01-AD82-46F2-BA7E-DB24177601BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F1FCD01-AD82-46F2-BA7E-DB24177601BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123844.27788901</real>
+			<key>timeStoppedRecording</key>
+			<real>569123844.338534</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>0F1FCD01-AD82-46F2-BA7E-DB24177601BE</string>
+		</dict>
+		<key>0FB29327-6D62-4A14-BCE8-D79330F9F418</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FB29327-6D62-4A14-BCE8-D79330F9F418.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011078.60421205</real>
+			<key>timeStoppedRecording</key>
+			<real>569011078.63673902</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>0FB29327-6D62-4A14-BCE8-D79330F9F418</string>
+		</dict>
+		<key>14A605BF-0872-4A55-82F2-61131006EA84</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14A605BF-0872-4A55-82F2-61131006EA84.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120229.44075894</real>
+			<key>timeStoppedRecording</key>
+			<real>569120229.51747406</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>14A605BF-0872-4A55-82F2-61131006EA84</string>
+		</dict>
+		<key>1772FC14-C9EA-4643-89E7-4785B77E0F18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1772FC14-C9EA-4643-89E7-4785B77E0F18.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122774.97539902</real>
+			<key>timeStoppedRecording</key>
+			<real>569122775.93347597</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>1772FC14-C9EA-4643-89E7-4785B77E0F18</string>
+		</dict>
+		<key>1C9E060D-2AB9-44A1-8481-43B68A6C143C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C9E060D-2AB9-44A1-8481-43B68A6C143C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011009.07219195</real>
+			<key>timeStoppedRecording</key>
+			<real>569011011.04973304</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>1C9E060D-2AB9-44A1-8481-43B68A6C143C</string>
+		</dict>
+		<key>1DC0D0A4-541C-4830-AA0C-05CCB82C313B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DC0D0A4-541C-4830-AA0C-05CCB82C313B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569022818.14168203</real>
+			<key>timeStoppedRecording</key>
+			<real>569022818.560274</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>1DC0D0A4-541C-4830-AA0C-05CCB82C313B</string>
+		</dict>
+		<key>2210C5B6-B257-49B8-8BE2-F4523BAF2A5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2210C5B6-B257-49B8-8BE2-F4523BAF2A5D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122916.13782799</real>
+			<key>timeStoppedRecording</key>
+			<real>569122917.12003505</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>2210C5B6-B257-49B8-8BE2-F4523BAF2A5D</string>
+		</dict>
+		<key>28EBC719-B79D-4543-B3B1-CB30E2AEC093</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28EBC719-B79D-4543-B3B1-CB30E2AEC093.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119858.24086106</real>
+			<key>timeStoppedRecording</key>
+			<real>569119863.83411002</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>28EBC719-B79D-4543-B3B1-CB30E2AEC093</string>
+		</dict>
+		<key>28F9C012-957A-4893-AAF9-A755CD81D129</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28F9C012-957A-4893-AAF9-A755CD81D129.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120097.18725204</real>
+			<key>timeStoppedRecording</key>
+			<real>569120097.68306899</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>28F9C012-957A-4893-AAF9-A755CD81D129</string>
+		</dict>
+		<key>2EC41F26-FC49-49F3-A0A8-72A80A77E26E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2EC41F26-FC49-49F3-A0A8-72A80A77E26E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569010891.40417194</real>
+			<key>timeStoppedRecording</key>
+			<real>569010891.56138897</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>2EC41F26-FC49-49F3-A0A8-72A80A77E26E</string>
+		</dict>
+		<key>3357C90D-AC57-4287-A34D-8C9EDDB9CFF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3357C90D-AC57-4287-A34D-8C9EDDB9CFF9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120210.15181303</real>
+			<key>timeStoppedRecording</key>
+			<real>569120213.14385796</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>3357C90D-AC57-4287-A34D-8C9EDDB9CFF9</string>
+		</dict>
+		<key>375F99E3-67E1-48DB-9C65-B26866D753AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>375F99E3-67E1-48DB-9C65-B26866D753AF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120724.18426597</real>
+			<key>timeStoppedRecording</key>
+			<real>569120724.53984499</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>375F99E3-67E1-48DB-9C65-B26866D753AF</string>
+		</dict>
+		<key>3BAA6DE3-9474-4C94-A7FB-14B78FC5D281</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3BAA6DE3-9474-4C94-A7FB-14B78FC5D281.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123732.44945204</real>
+			<key>timeStoppedRecording</key>
+			<real>569123732.50577998</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>3BAA6DE3-9474-4C94-A7FB-14B78FC5D281</string>
+		</dict>
+		<key>41D0E8B4-D009-462A-9D64-C8A2DA8F0640</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41D0E8B4-D009-462A-9D64-C8A2DA8F0640.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123049.90828598</real>
+			<key>timeStoppedRecording</key>
+			<real>569123049.96095204</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>41D0E8B4-D009-462A-9D64-C8A2DA8F0640</string>
+		</dict>
+		<key>45CB1B65-0395-456E-9E1F-2D8763824BD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45CB1B65-0395-456E-9E1F-2D8763824BD2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122325.41049397</real>
+			<key>timeStoppedRecording</key>
+			<real>569122325.51930702</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>45CB1B65-0395-456E-9E1F-2D8763824BD2</string>
+		</dict>
+		<key>49BB628B-17EA-423C-BED7-A0769F3F24F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49BB628B-17EA-423C-BED7-A0769F3F24F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121222.58451998</real>
+			<key>timeStoppedRecording</key>
+			<real>569121231.46432197</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>49BB628B-17EA-423C-BED7-A0769F3F24F4</string>
+		</dict>
+		<key>4EE4F651-9C88-41C1-BB72-F15ED557FAF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4EE4F651-9C88-41C1-BB72-F15ED557FAF1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122011.67980003</real>
+			<key>timeStoppedRecording</key>
+			<real>569122014.77779305</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>4EE4F651-9C88-41C1-BB72-F15ED557FAF1</string>
+		</dict>
+		<key>55CAE067-BD64-4A77-AA76-5F8F56E4E6D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55CAE067-BD64-4A77-AA76-5F8F56E4E6D1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120647.01244402</real>
+			<key>timeStoppedRecording</key>
+			<real>569120647.37543094</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>55CAE067-BD64-4A77-AA76-5F8F56E4E6D1</string>
+		</dict>
+		<key>5B5FCD4E-6FCD-4F37-AE29-C30972E7B1ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B5FCD4E-6FCD-4F37-AE29-C30972E7B1ED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123767.16513395</real>
+			<key>timeStoppedRecording</key>
+			<real>569123767.22866702</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>5B5FCD4E-6FCD-4F37-AE29-C30972E7B1ED</string>
+		</dict>
+		<key>5C814670-05F7-4BCF-882C-4DC102AE67EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C814670-05F7-4BCF-882C-4DC102AE67EB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120195.31065094</real>
+			<key>timeStoppedRecording</key>
+			<real>569120198.22326696</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>5C814670-05F7-4BCF-882C-4DC102AE67EB</string>
+		</dict>
+		<key>5C8F209C-6F13-430B-B44E-FDCD5C531A47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C8F209C-6F13-430B-B44E-FDCD5C531A47.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120176.81807804</real>
+			<key>timeStoppedRecording</key>
+			<real>569120177.17259502</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>5C8F209C-6F13-430B-B44E-FDCD5C531A47</string>
+		</dict>
+		<key>5FBEC2AB-FB98-4DEC-A435-009E4100FB93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FBEC2AB-FB98-4DEC-A435-009E4100FB93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011266.87057197</real>
+			<key>timeStoppedRecording</key>
+			<real>569011271.52099895</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>5FBEC2AB-FB98-4DEC-A435-009E4100FB93</string>
+		</dict>
+		<key>624157C0-B4D6-4C0C-830A-72C200F6D43B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>624157C0-B4D6-4C0C-830A-72C200F6D43B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569010836.12620401</real>
+			<key>timeStoppedRecording</key>
+			<real>569010839.15875399</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>624157C0-B4D6-4C0C-830A-72C200F6D43B</string>
+		</dict>
+		<key>657129C1-7109-408E-BA65-326F61B7F452</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>657129C1-7109-408E-BA65-326F61B7F452.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120189.45025802</real>
+			<key>timeStoppedRecording</key>
+			<real>569120189.84052896</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>657129C1-7109-408E-BA65-326F61B7F452</string>
+		</dict>
+		<key>67B33AB9-2B25-4CAE-BBB2-0819801AC2DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67B33AB9-2B25-4CAE-BBB2-0819801AC2DF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120610.07677102</real>
+			<key>timeStoppedRecording</key>
+			<real>569120610.43378198</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>67B33AB9-2B25-4CAE-BBB2-0819801AC2DF</string>
+		</dict>
+		<key>6D7D38F9-324E-490B-BB12-365CF1A2BAEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D7D38F9-324E-490B-BB12-365CF1A2BAEE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122512.22973704</real>
+			<key>timeStoppedRecording</key>
+			<real>569122513.17966604</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>6D7D38F9-324E-490B-BB12-365CF1A2BAEE</string>
+		</dict>
+		<key>6F0932D9-2E6C-4A69-B99A-046318228AEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F0932D9-2E6C-4A69-B99A-046318228AEE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120632.55188</real>
+			<key>timeStoppedRecording</key>
+			<real>569120632.90269303</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>6F0932D9-2E6C-4A69-B99A-046318228AEE</string>
+		</dict>
+		<key>7168FDE7-089E-4ED6-8A85-DCB08DD468AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7168FDE7-089E-4ED6-8A85-DCB08DD468AF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011139.09475505</real>
+			<key>timeStoppedRecording</key>
+			<real>569011144.95118797</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7168FDE7-089E-4ED6-8A85-DCB08DD468AF</string>
+		</dict>
+		<key>72E6D333-016D-4D89-9704-67FF72A3A91B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72E6D333-016D-4D89-9704-67FF72A3A91B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122975.51170301</real>
+			<key>timeStoppedRecording</key>
+			<real>569122976.56882203</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>72E6D333-016D-4D89-9704-67FF72A3A91B</string>
+		</dict>
+		<key>756205EB-DBDA-4406-A7C0-C273275E14B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>756205EB-DBDA-4406-A7C0-C273275E14B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569010966.10584903</real>
+			<key>timeStoppedRecording</key>
+			<real>569010967.08195901</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>756205EB-DBDA-4406-A7C0-C273275E14B3</string>
+		</dict>
+		<key>7627BD1A-A7E6-415E-9161-DCF6176C5BE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7627BD1A-A7E6-415E-9161-DCF6176C5BE2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123824.17699099</real>
+			<key>timeStoppedRecording</key>
+			<real>569123825.13384199</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7627BD1A-A7E6-415E-9161-DCF6176C5BE2</string>
+		</dict>
+		<key>764E5E41-2347-4261-974B-4B0817CDCD94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>764E5E41-2347-4261-974B-4B0817CDCD94.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569014640.32199895</real>
+			<key>timeStoppedRecording</key>
+			<real>569014640.68223798</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>764E5E41-2347-4261-974B-4B0817CDCD94</string>
+		</dict>
+		<key>7AB765B4-5B94-48CD-B1A7-D882F368E85F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AB765B4-5B94-48CD-B1A7-D882F368E85F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121151.95827901</real>
+			<key>timeStoppedRecording</key>
+			<real>569121152.16463196</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7AB765B4-5B94-48CD-B1A7-D882F368E85F</string>
+		</dict>
+		<key>7B3D47F8-70E6-4EFB-9655-801CB794A753</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B3D47F8-70E6-4EFB-9655-801CB794A753.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119934.73465097</real>
+			<key>timeStoppedRecording</key>
+			<real>569119935.06019902</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7B3D47F8-70E6-4EFB-9655-801CB794A753</string>
+		</dict>
+		<key>7B525522-4332-4869-B1A4-ED47698BCD73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B525522-4332-4869-B1A4-ED47698BCD73.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569012426.60362697</real>
+			<key>timeStoppedRecording</key>
+			<real>569012426.67913604</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7B525522-4332-4869-B1A4-ED47698BCD73</string>
+		</dict>
+		<key>7CE81AC9-CE0A-4F9C-9A69-32D3CAD6FA32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CE81AC9-CE0A-4F9C-9A69-32D3CAD6FA32.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122042.77981997</real>
+			<key>timeStoppedRecording</key>
+			<real>569122043.10935402</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7CE81AC9-CE0A-4F9C-9A69-32D3CAD6FA32</string>
+		</dict>
+		<key>7CFCE322-4B84-42EE-97A2-F7F88C34F39D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CFCE322-4B84-42EE-97A2-F7F88C34F39D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121116.12122405</real>
+			<key>timeStoppedRecording</key>
+			<real>569121119.20813894</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>7CFCE322-4B84-42EE-97A2-F7F88C34F39D</string>
+		</dict>
+		<key>80F630EC-416F-4082-B2BF-0D91E035F9F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80F630EC-416F-4082-B2BF-0D91E035F9F8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569022893.73663199</real>
+			<key>timeStoppedRecording</key>
+			<real>569022894.715222</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>80F630EC-416F-4082-B2BF-0D91E035F9F8</string>
+		</dict>
+		<key>812F43D2-1AC9-45F4-BF9D-E283D774DC44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>812F43D2-1AC9-45F4-BF9D-E283D774DC44.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569022941.18158495</real>
+			<key>timeStoppedRecording</key>
+			<real>569022941.80766296</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>812F43D2-1AC9-45F4-BF9D-E283D774DC44</string>
+		</dict>
+		<key>81E06139-B0F9-4AFE-9616-2BAF448A8B47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81E06139-B0F9-4AFE-9616-2BAF448A8B47.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121332.27877295</real>
+			<key>timeStoppedRecording</key>
+			<real>569121334.59792197</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>81E06139-B0F9-4AFE-9616-2BAF448A8B47</string>
+		</dict>
+		<key>82D22625-BDCB-4CD5-9E1F-0C4EA27C7C9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82D22625-BDCB-4CD5-9E1F-0C4EA27C7C9F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119966.15320599</real>
+			<key>timeStoppedRecording</key>
+			<real>569119966.24736595</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>82D22625-BDCB-4CD5-9E1F-0C4EA27C7C9F</string>
+		</dict>
+		<key>8449746A-CAEF-4C2A-9911-06C2D99F92CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8449746A-CAEF-4C2A-9911-06C2D99F92CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122794.969154</real>
+			<key>timeStoppedRecording</key>
+			<real>569122795.03101301</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>8449746A-CAEF-4C2A-9911-06C2D99F92CD</string>
+		</dict>
+		<key>8AEC89D7-203D-4ED9-950D-E9DA812B1478</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AEC89D7-203D-4ED9-950D-E9DA812B1478.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123000.38120401</real>
+			<key>timeStoppedRecording</key>
+			<real>569123001.36398494</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>8AEC89D7-203D-4ED9-950D-E9DA812B1478</string>
+		</dict>
+		<key>8DC0BC23-6CE1-4DA9-96D3-51ED4F1CCDF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8DC0BC23-6CE1-4DA9-96D3-51ED4F1CCDF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121999.74687004</real>
+			<key>timeStoppedRecording</key>
+			<real>569122002.620224</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>8DC0BC23-6CE1-4DA9-96D3-51ED4F1CCDF5</string>
+		</dict>
+		<key>8ED956E0-D3D1-46B5-ABE3-2C9648E5FE71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8ED956E0-D3D1-46B5-ABE3-2C9648E5FE71.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011322.03715897</real>
+			<key>timeStoppedRecording</key>
+			<real>569011324.73629296</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>8ED956E0-D3D1-46B5-ABE3-2C9648E5FE71</string>
+		</dict>
+		<key>8FFD977F-A538-4385-89EE-3D6916C2BA5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FFD977F-A538-4385-89EE-3D6916C2BA5E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119885.27883697</real>
+			<key>timeStoppedRecording</key>
+			<real>569119885.65736496</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>8FFD977F-A538-4385-89EE-3D6916C2BA5E</string>
+		</dict>
+		<key>95398DF6-043C-4110-ACEC-BE4ED7A8BA65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95398DF6-043C-4110-ACEC-BE4ED7A8BA65.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123697.477054</real>
+			<key>timeStoppedRecording</key>
+			<real>569123698.46796894</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>95398DF6-043C-4110-ACEC-BE4ED7A8BA65</string>
+		</dict>
+		<key>95BEC38C-E37C-4C21-90E7-3DB86588DF90</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95BEC38C-E37C-4C21-90E7-3DB86588DF90.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120209.50031197</real>
+			<key>timeStoppedRecording</key>
+			<real>569120209.56047297</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>95BEC38C-E37C-4C21-90E7-3DB86588DF90</string>
+		</dict>
+		<key>96409146-3FF0-4ABF-B2CB-8E1F7767FC44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96409146-3FF0-4ABF-B2CB-8E1F7767FC44.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569014616.42709506</real>
+			<key>timeStoppedRecording</key>
+			<real>569014616.78583503</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>96409146-3FF0-4ABF-B2CB-8E1F7767FC44</string>
+		</dict>
+		<key>965F6DD8-FB03-4663-8BFF-DB4585D063DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>965F6DD8-FB03-4663-8BFF-DB4585D063DC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569124000.47156703</real>
+			<key>timeStoppedRecording</key>
+			<real>569124000.56073201</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>965F6DD8-FB03-4663-8BFF-DB4585D063DC</string>
+		</dict>
+		<key>9A358822-C390-467E-A129-B638171DE7E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A358822-C390-467E-A129-B638171DE7E4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011257.18556905</real>
+			<key>timeStoppedRecording</key>
+			<real>569011257.22221506</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>9A358822-C390-467E-A129-B638171DE7E4</string>
+		</dict>
+		<key>9F18539F-3E79-4337-80FD-C4DE6D96D52D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F18539F-3E79-4337-80FD-C4DE6D96D52D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122951.01849604</real>
+			<key>timeStoppedRecording</key>
+			<real>569122952.04586399</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>9F18539F-3E79-4337-80FD-C4DE6D96D52D</string>
+		</dict>
+		<key>A207C69C-5488-4E83-B4B9-FA3EBEAE5321</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A207C69C-5488-4E83-B4B9-FA3EBEAE5321.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120194.22545302</real>
+			<key>timeStoppedRecording</key>
+			<real>569120194.30729306</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>A207C69C-5488-4E83-B4B9-FA3EBEAE5321</string>
+		</dict>
+		<key>A352C7FA-0B19-4FA8-AE4D-B4E9C32E62D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A352C7FA-0B19-4FA8-AE4D-B4E9C32E62D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121460.87049901</real>
+			<key>timeStoppedRecording</key>
+			<real>569121461.81250405</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>A352C7FA-0B19-4FA8-AE4D-B4E9C32E62D7</string>
+		</dict>
+		<key>A505E18F-866A-445C-8172-949F16D7B013</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A505E18F-866A-445C-8172-949F16D7B013.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121258.29785097</real>
+			<key>timeStoppedRecording</key>
+			<real>569121258.36937499</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>A505E18F-866A-445C-8172-949F16D7B013</string>
+		</dict>
+		<key>AE820D1C-47A8-430C-97D8-18C8FA5E94D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE820D1C-47A8-430C-97D8-18C8FA5E94D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120206.19616604</real>
+			<key>timeStoppedRecording</key>
+			<real>569120206.55117404</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>AE820D1C-47A8-430C-97D8-18C8FA5E94D4</string>
+		</dict>
+		<key>AFB7A2C4-134C-488A-9CE4-68A19F4011FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFB7A2C4-134C-488A-9CE4-68A19F4011FD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121513.52564597</real>
+			<key>timeStoppedRecording</key>
+			<real>569121513.58335996</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>AFB7A2C4-134C-488A-9CE4-68A19F4011FD</string>
+		</dict>
+		<key>B7AD7C9E-13E6-4D05-BEEF-A6410E312FEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7AD7C9E-13E6-4D05-BEEF-A6410E312FEC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121617.34973395</real>
+			<key>timeStoppedRecording</key>
+			<real>569121617.41749704</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>B7AD7C9E-13E6-4D05-BEEF-A6410E312FEC</string>
+		</dict>
+		<key>B7F5C035-A72E-412B-80C2-6581D50521C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7F5C035-A72E-412B-80C2-6581D50521C1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122109.60416198</real>
+			<key>timeStoppedRecording</key>
+			<real>569122109.94583595</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>B7F5C035-A72E-412B-80C2-6581D50521C1</string>
+		</dict>
+		<key>C112F2D7-E6C4-4E8C-8A90-A4D96A34BFB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C112F2D7-E6C4-4E8C-8A90-A4D96A34BFB9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569010984.88532996</real>
+			<key>timeStoppedRecording</key>
+			<real>569010990.63306797</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C112F2D7-E6C4-4E8C-8A90-A4D96A34BFB9</string>
+		</dict>
+		<key>C25309D6-2DF8-47B2-B4FB-6034C000163E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C25309D6-2DF8-47B2-B4FB-6034C000163E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011231.82389498</real>
+			<key>timeStoppedRecording</key>
+			<real>569011231.86285901</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C25309D6-2DF8-47B2-B4FB-6034C000163E</string>
+		</dict>
+		<key>C28E8102-4790-41DE-810F-4DC25DE351C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C28E8102-4790-41DE-810F-4DC25DE351C3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569022833.70716405</real>
+			<key>timeStoppedRecording</key>
+			<real>569022836.83769798</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C28E8102-4790-41DE-810F-4DC25DE351C3</string>
+		</dict>
+		<key>C6D7FC3D-38B9-4659-92AE-3967F6150419</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C6D7FC3D-38B9-4659-92AE-3967F6150419.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121262.13498998</real>
+			<key>timeStoppedRecording</key>
+			<real>569121264.46797705</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C6D7FC3D-38B9-4659-92AE-3967F6150419</string>
+		</dict>
+		<key>C72CDC59-8178-412D-BAAB-07EE817F9304</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C72CDC59-8178-412D-BAAB-07EE817F9304.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122660.03923404</real>
+			<key>timeStoppedRecording</key>
+			<real>569122660.10687697</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C72CDC59-8178-412D-BAAB-07EE817F9304</string>
+		</dict>
+		<key>C8A3D070-6F88-476C-9021-107850EC4263</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8A3D070-6F88-476C-9021-107850EC4263.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121108.97255099</real>
+			<key>timeStoppedRecording</key>
+			<real>569121109.043239</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>C8A3D070-6F88-476C-9021-107850EC4263</string>
+		</dict>
+		<key>CFE54A81-7744-4B84-8589-7475BAE01019</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFE54A81-7744-4B84-8589-7475BAE01019.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122432.81302595</real>
+			<key>timeStoppedRecording</key>
+			<real>569122433.76628804</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>CFE54A81-7744-4B84-8589-7475BAE01019</string>
+		</dict>
+		<key>D3CEDAB4-599E-4C31-A8DB-20E4C7E62552</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D3CEDAB4-599E-4C31-A8DB-20E4C7E62552.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011079.94495904</real>
+			<key>timeStoppedRecording</key>
+			<real>569011080.03717399</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D3CEDAB4-599E-4C31-A8DB-20E4C7E62552</string>
+		</dict>
+		<key>D4ADA5BF-AB1D-472B-9390-3287462E2AFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4ADA5BF-AB1D-472B-9390-3287462E2AFD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122216.90267801</real>
+			<key>timeStoppedRecording</key>
+			<real>569122217.84176505</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D4ADA5BF-AB1D-472B-9390-3287462E2AFD</string>
+		</dict>
+		<key>D5262A29-B119-400C-9AB2-46C49479AEA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5262A29-B119-400C-9AB2-46C49479AEA1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011113.92072594</real>
+			<key>timeStoppedRecording</key>
+			<real>569011113.99478996</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D5262A29-B119-400C-9AB2-46C49479AEA1</string>
+		</dict>
+		<key>D56EA735-559F-4CA9-A027-9F00DF3AAEC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D56EA735-559F-4CA9-A027-9F00DF3AAEC6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569010748.91947198</real>
+			<key>timeStoppedRecording</key>
+			<real>569010752.48466694</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D56EA735-559F-4CA9-A027-9F00DF3AAEC6</string>
+		</dict>
+		<key>D5A1C2B6-FDC9-4476-830F-11F4090427BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5A1C2B6-FDC9-4476-830F-11F4090427BF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569011169.56648004</real>
+			<key>timeStoppedRecording</key>
+			<real>569011169.59644198</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D5A1C2B6-FDC9-4476-830F-11F4090427BF</string>
+		</dict>
+		<key>D95C5491-40D9-4B7C-B3F7-20DF709DE514</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D95C5491-40D9-4B7C-B3F7-20DF709DE514.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121308.99416006</real>
+			<key>timeStoppedRecording</key>
+			<real>569121309.50252604</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>D95C5491-40D9-4B7C-B3F7-20DF709DE514</string>
+		</dict>
+		<key>DAA2802C-9C95-480E-A024-4C36BB87E950</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DAA2802C-9C95-480E-A024-4C36BB87E950.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569119970.04012299</real>
+			<key>timeStoppedRecording</key>
+			<real>569119972.68324602</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>DAA2802C-9C95-480E-A024-4C36BB87E950</string>
+		</dict>
+		<key>DBAE82C0-2A11-47EF-BFB0-FB4FF0201A96</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBAE82C0-2A11-47EF-BFB0-FB4FF0201A96.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122129.58955801</real>
+			<key>timeStoppedRecording</key>
+			<real>569122130.61864901</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>DBAE82C0-2A11-47EF-BFB0-FB4FF0201A96</string>
+		</dict>
+		<key>DF9F617A-7AC9-42AC-8CB3-875366CD0F56</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF9F617A-7AC9-42AC-8CB3-875366CD0F56.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121971.20199704</real>
+			<key>timeStoppedRecording</key>
+			<real>569121974.28101897</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>DF9F617A-7AC9-42AC-8CB3-875366CD0F56</string>
+		</dict>
+		<key>E0131E7F-5188-43B6-9C9E-99BACCF9F482</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E0131E7F-5188-43B6-9C9E-99BACCF9F482.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121814.33408797</real>
+			<key>timeStoppedRecording</key>
+			<real>569121815.31086695</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E0131E7F-5188-43B6-9C9E-99BACCF9F482</string>
+		</dict>
+		<key>E1F5A7FF-C30A-45B8-9C40-EF65EA5927FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1F5A7FF-C30A-45B8-9C40-EF65EA5927FE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122179.95947003</real>
+			<key>timeStoppedRecording</key>
+			<real>569122180.01761496</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E1F5A7FF-C30A-45B8-9C40-EF65EA5927FE</string>
+		</dict>
+		<key>E2963DCF-905F-4BA5-BF64-775AA01CB704</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2963DCF-905F-4BA5-BF64-775AA01CB704.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121685.05046701</real>
+			<key>timeStoppedRecording</key>
+			<real>569121685.11045098</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E2963DCF-905F-4BA5-BF64-775AA01CB704</string>
+		</dict>
+		<key>E394BCAF-A2CE-44E3-BC9B-E17519DA462E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E394BCAF-A2CE-44E3-BC9B-E17519DA462E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569121329.06646097</real>
+			<key>timeStoppedRecording</key>
+			<real>569121329.119838</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E394BCAF-A2CE-44E3-BC9B-E17519DA462E</string>
+		</dict>
+		<key>E454B811-AA80-41A4-87E9-2FBE5E79D0B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E454B811-AA80-41A4-87E9-2FBE5E79D0B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122742.16711998</real>
+			<key>timeStoppedRecording</key>
+			<real>569122743.13232994</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E454B811-AA80-41A4-87E9-2FBE5E79D0B2</string>
+		</dict>
+		<key>E72BE9AB-D23F-446A-8D85-F54270974EB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E72BE9AB-D23F-446A-8D85-F54270974EB4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569123030.82905197</real>
+			<key>timeStoppedRecording</key>
+			<real>569123031.87352002</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>E72BE9AB-D23F-446A-8D85-F54270974EB4</string>
+		</dict>
+		<key>EB1CA369-0225-4A40-8C83-A3BBB032A70F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB1CA369-0225-4A40-8C83-A3BBB032A70F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122827.76283002</real>
+			<key>timeStoppedRecording</key>
+			<real>569122827.82193196</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>EB1CA369-0225-4A40-8C83-A3BBB032A70F</string>
+		</dict>
+		<key>EF641089-E10A-4C5C-996B-F4A709C838F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF641089-E10A-4C5C-996B-F4A709C838F9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120652.235605</real>
+			<key>timeStoppedRecording</key>
+			<real>569120653.05722404</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>EF641089-E10A-4C5C-996B-F4A709C838F9</string>
+		</dict>
+		<key>F4090402-1E66-40A3-B4A8-5706125D4835</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4090402-1E66-40A3-B4A8-5706125D4835.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569122863.54210496</real>
+			<key>timeStoppedRecording</key>
+			<real>569122864.53457105</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>F4090402-1E66-40A3-B4A8-5706125D4835</string>
+		</dict>
+		<key>FBFB4104-062D-4CEF-85AE-B2DF37E94255</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBFB4104-062D-4CEF-85AE-B2DF37E94255.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120230.05884898</real>
+			<key>timeStoppedRecording</key>
+			<real>569120233.06749201</real>
+			<key>title</key>
+			<string>Build Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>FBFB4104-062D-4CEF-85AE-B2DF37E94255</string>
+		</dict>
+		<key>FD41FDFE-96A5-4FD0-8962-9D7F2460602B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD41FDFE-96A5-4FD0-8962-9D7F2460602B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Photon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Photon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Photon</string>
+			<key>timeStartedRecording</key>
+			<real>569120651.13787794</real>
+			<key>timeStoppedRecording</key>
+			<real>569120651.20022202</real>
+			<key>title</key>
+			<string>Clean Photon</string>
+			<key>uniqueIdentifier</key>
+			<string>FD41FDFE-96A5-4FD0-8962-9D7F2460602B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

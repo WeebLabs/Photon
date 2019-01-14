@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "394ac48c4a48fb41463171086d4c435a"
+build_time: [1547431024, 226322000]
+inputs:
+  "/Users/haru-tan/Photon/Photon/GetColor.swift": [1547431024, 0]
+  "/Users/haru-tan/Photon/Photon/MainApp.swift": [1547303714, 0]
+  "/Users/haru-tan/Photon/Photon/UpdateLEDs.swift": [1547307770, 0]
+  "/Users/haru-tan/Photon/Photon/AppDelegate.swift": [1547314187, 0]

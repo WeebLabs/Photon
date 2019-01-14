@@ -1,0 +1,479 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EonilFSEventStream"
+provides-nominal:
+- "13EonilFSEvents0A13FSEventStreamC"
+provides-member:
+- ["13EonilFSEvents0A13FSEventStreamC", ""]
+- ["13EonilFSEvents0A13FSEventStreamC", "getLatestEventID"]
+- ["13EonilFSEvents0A13FSEventStreamC", "copyPathsBeingWatched"]
+- ["13EonilFSEvents0A13FSEventStreamC", "scheduleWithRunloop"]
+- ["13EonilFSEvents0A13FSEventStreamC", "unscheduleFromRunLoop"]
+- ["13EonilFSEvents0A13FSEventStreamC", "setDispatchQueue"]
+- ["13EonilFSEvents0A13FSEventStreamC", "invalidate"]
+- ["13EonilFSEvents0A13FSEventStreamC", "start"]
+- ["13EonilFSEvents0A13FSEventStreamC", "flushAsync"]
+- ["13EonilFSEvents0A13FSEventStreamC", "flushSync"]
+- ["13EonilFSEvents0A13FSEventStreamC", "stop"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "..<"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CFArray"
+- !private "CFString"
+- !private "CFTimeInterval"
+- "CastingPrecedence"
+- !private "ConstFSEventStreamRef"
+- !private "CoreServices"
+- "CustomDebugStringConvertible"
+- "CustomStringConvertible"
+- "DispatchQueue"
+- "EonilFSEventStream"
+- "EonilFSEventsCreateFlags"
+- !private "EonilFSEventsError"
+- "EonilFSEventsEvent"
+- !private "EonilFSEventsEventFlags"
+- "EonilFSEventsEventID"
+- !private "EonilFSEventsIllogicalErrorLog"
+- !private "FSEventStreamContext"
+- !private "FSEventStreamCopyDescription"
+- !private "FSEventStreamCopyPathsBeingWatched"
+- !private "FSEventStreamCreate"
+- !private "FSEventStreamCreateFlags"
+- !private "FSEventStreamEventFlags"
+- !private "FSEventStreamEventId"
+- !private "FSEventStreamFlushAsync"
+- !private "FSEventStreamFlushSync"
+- !private "FSEventStreamGetLatestEventId"
+- !private "FSEventStreamInvalidate"
+- "FSEventStreamRef"
+- !private "FSEventStreamScheduleWithRunLoop"
+- !private "FSEventStreamSetDispatchQueue"
+- !private "FSEventStreamSetExclusionPaths"
+- !private "FSEventStreamShow"
+- !private "FSEventStreamStart"
+- !private "FSEventStreamStop"
+- !private "FSEventStreamUnscheduleFromRunLoop"
+- "FloatLiteralType"
+- !private "Int"
+- "IntegerLiteralType"
+- !private "NSArray"
+- !private "NSString"
+- "RunLoop"
+- "String"
+- "StringLiteralType"
+- "TimeInterval"
+- "UnicodeScalarType"
+- !private "Unmanaged"
+- !private "UnsafeMutablePointer"
+- !private "UnsafeMutableRawPointer"
+- !private "UnsafePointer"
+- !private "fatalError"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "Mode"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "getCFRunLoop"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEventsError"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEventsEvent"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEventsEventFlags"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEventsEventID"]
+- !private ["s28CustomDebugStringConvertibleP", "EonilFSEventsIllogicalErrorLog"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamContext"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamCopyDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamCopyPathsBeingWatched"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamCreate"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamFlushAsync"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamFlushSync"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamGetLatestEventId"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamInvalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamScheduleWithRunLoop"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamSetDispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamSetExclusionPaths"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamShow"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamStart"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamStop"]
+- !private ["s28CustomDebugStringConvertibleP", "FSEventStreamUnscheduleFromRunLoop"]
+- ["s28CustomDebugStringConvertibleP", "Mode"]
+- !private ["s28CustomDebugStringConvertibleP", "Unmanaged"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "copyDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "getCFRunLoop"]
+- !private ["s28CustomDebugStringConvertibleP", "handler"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "rawref"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "union"]
+- !private ["s28CustomDebugStringConvertibleP", "useCFTypes"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEventsError"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEventsEvent"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEventsEventFlags"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEventsEventID"]
+- !private ["s23CustomStringConvertibleP", "EonilFSEventsIllogicalErrorLog"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamContext"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamCopyDescription"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamCopyPathsBeingWatched"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamCreate"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamFlushAsync"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamFlushSync"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamGetLatestEventId"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamInvalidate"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamScheduleWithRunLoop"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamSetDispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamSetExclusionPaths"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamShow"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamStart"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamStop"]
+- !private ["s23CustomStringConvertibleP", "FSEventStreamUnscheduleFromRunLoop"]
+- ["s23CustomStringConvertibleP", "Mode"]
+- !private ["s23CustomStringConvertibleP", "Unmanaged"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "copyDescription"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "getCFRunLoop"]
+- !private ["s23CustomStringConvertibleP", "handler"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "rawref"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "union"]
+- !private ["s23CustomStringConvertibleP", "useCFTypes"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- ["13EonilFSEvents0A13FSEventStreamC", "Bool"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "CFArray"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "CFString"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "CFTimeInterval"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "ConstFSEventStreamRef"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "CoreServices"]
+- ["13EonilFSEvents0A13FSEventStreamC", "DispatchQueue"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventStream"]
+- ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsCreateFlags"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsError"]
+- ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsEvent"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsEventFlags"]
+- ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsEventID"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "EonilFSEventsIllogicalErrorLog"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamContext"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamCopyDescription"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamCopyPathsBeingWatched"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamCreate"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamCreateFlags"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamEventFlags"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamEventId"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamFlushAsync"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamFlushSync"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamGetLatestEventId"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamInvalidate"]
+- ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamRef"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamScheduleWithRunLoop"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamSetDispatchQueue"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamSetExclusionPaths"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamShow"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamStart"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamStop"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "FSEventStreamUnscheduleFromRunLoop"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "Int"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "NSArray"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "NSString"]
+- ["13EonilFSEvents0A13FSEventStreamC", "RunLoop"]
+- ["13EonilFSEvents0A13FSEventStreamC", "String"]
+- ["13EonilFSEvents0A13FSEventStreamC", "TimeInterval"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "Unmanaged"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "UnsafeMutablePointer"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "UnsafeMutableRawPointer"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "UnsafePointer"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "copyDescription"]
+- ["13EonilFSEvents0A13FSEventStreamC", "copyPathsBeingWatched"]
+- ["13EonilFSEvents0A13FSEventStreamC", "debugDescription"]
+- ["13EonilFSEvents0A13FSEventStreamC", "deinit"]
+- ["13EonilFSEvents0A13FSEventStreamC", "description"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "fatalError"]
+- ["13EonilFSEvents0A13FSEventStreamC", "flushAsync"]
+- ["13EonilFSEvents0A13FSEventStreamC", "flushSync"]
+- ["13EonilFSEvents0A13FSEventStreamC", "getLatestEventID"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "handler"]
+- ["13EonilFSEvents0A13FSEventStreamC", "init"]
+- ["13EonilFSEvents0A13FSEventStreamC", "invalidate"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "rawref"]
+- ["13EonilFSEvents0A13FSEventStreamC", "scheduleWithRunloop"]
+- ["13EonilFSEvents0A13FSEventStreamC", "setDispatchQueue"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "setExclusionPaths"]
+- !private ["13EonilFSEvents0A13FSEventStreamC", "show"]
+- ["13EonilFSEvents0A13FSEventStreamC", "start"]
+- ["13EonilFSEvents0A13FSEventStreamC", "stop"]
+- ["13EonilFSEvents0A13FSEventStreamC", "unscheduleFromRunLoop"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "deinit"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "rawValue"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "union"]
+- !private ["13EonilFSEvents0aB11CreateFlagsV", "useCFTypes"]
+- !private ["13EonilFSEvents0aB17CriticalErrorCodeO", "missingContextRawPointerValue"]
+- !private ["13EonilFSEvents0aB17CriticalErrorCodeO", "unexpectedPathValueType"]
+- !private ["13EonilFSEvents0aB17CriticalErrorCodeO", "unmatchedEventParameterCounts"]
+- !private ["13EonilFSEvents0aB5ErrorV", "deinit"]
+- !private ["13EonilFSEvents0aB5ErrorV", "init"]
+- !private ["13EonilFSEvents0aB5ErrorV", "init"]
+- !private ["13EonilFSEvents0aB9ErrorCodeO", "cannotCreateStream"]
+- !private ["13EonilFSEvents0aB9ErrorCodeO", "cannotStartStream"]
+- !private ["13EonilFSEvents0aB5EventV", "init"]
+- !private ["13EonilFSEvents0aB10EventFlagsV", "deinit"]
+- !private ["13EonilFSEvents0aB10EventFlagsV", "init"]
+- !private ["13EonilFSEvents0aB7EventIDV", "init"]
+- !private ["13EonilFSEvents0aB7EventIDV", "rawValue"]
+- !private ["13EonilFSEvents0aB17IllogicalErrorLogV", "cast"]
+- !private ["13EonilFSEvents0aB17IllogicalErrorLogV", "init"]
+- ["SQ", "Mode"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "cannotCreateStream"]
+- !private ["SQ", "cannotStartStream"]
+- !private ["SQ", "count"]
+- !private ["SQ", "getCFRunLoop"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "missingContextRawPointerValue"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "unexpectedPathValueType"]
+- !private ["SQ", "union"]
+- !private ["SQ", "unmatchedEventParameterCounts"]
+- !private ["SQ", "useCFTypes"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "rawValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "union"]
+- !private ["s25ExpressibleByArrayLiteralP", "useCFTypes"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So20FSEventStreamContextV", "init"]
+- ["SH", "Mode"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "cannotCreateStream"]
+- !private ["SH", "cannotStartStream"]
+- !private ["SH", "count"]
+- !private ["SH", "getCFRunLoop"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "missingContextRawPointerValue"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "subscript"]
+- !private ["SH", "unexpectedPathValueType"]
+- !private ["SH", "union"]
+- !private ["SH", "unmatchedEventParameterCounts"]
+- !private ["SH", "useCFTypes"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- ["So8NSObjectC", "Mode"]
+- !private ["So8NSObjectC", "getCFRunLoop"]
+- ["So8NSObjectP", "Mode"]
+- !private ["So8NSObjectP", "getCFRunLoop"]
+- !private ["s9OptionSetP", "init"]
+- !private ["s9OptionSetP", "rawValue"]
+- !private ["s9OptionSetP", "union"]
+- !private ["s9OptionSetP", "useCFTypes"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "init"]
+- !private ["SY", "rawValue"]
+- !private ["SY", "union"]
+- !private ["SY", "useCFTypes"]
+- ["So9NSRunLoopC", "Mode"]
+- !private ["So9NSRunLoopC", "getCFRunLoop"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "rawValue"]
+- !private ["s10SetAlgebraP", "union"]
+- !private ["s10SetAlgebraP", "useCFTypes"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["Sx", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s9UnmanagedV", "fromOpaque"]
+- !private ["s9UnmanagedV", "passUnretained"]
+- !private ["s9UnmanagedV", "takeUnretainedValue"]
+- !private ["s9UnmanagedV", "toOpaque"]
+- !private ["SP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Mode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getCFRunLoop"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s8_PointerP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "13EonilFSEvents0A13FSEventStreamC"
+- !private "13EonilFSEvents0aB11CreateFlagsV"
+- !private "13EonilFSEvents0aB17CriticalErrorCodeO"
+- !private "13EonilFSEvents0aB5ErrorV"
+- !private "13EonilFSEvents0aB9ErrorCodeO"
+- !private "13EonilFSEvents0aB5EventV"
+- !private "13EonilFSEvents0aB10EventFlagsV"
+- !private "13EonilFSEvents0aB7EventIDV"
+- !private "13EonilFSEvents0aB17IllogicalErrorLogV"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So20FSEventStreamContextV"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "So9NSRunLoopC"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "s12StaticStringV"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s9UnmanagedV"
+- !private "SP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode10.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c488df2fd414e4e364778f1a5465e24d"

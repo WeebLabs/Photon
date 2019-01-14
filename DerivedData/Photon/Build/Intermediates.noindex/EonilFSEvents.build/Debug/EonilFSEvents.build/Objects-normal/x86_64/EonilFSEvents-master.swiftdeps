@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "1d2e9e22cc11e3f1f390d06d0533c217"
+build_time: [1547429861, 701607000]
+inputs:
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamIllogicalErrorLog.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStream.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamEventFlags.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamEvent.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamError.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamEventID.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEventStreamCreateFlags.swift": [1545950436, 0]
+  "/Users/haru-tan/Downloads/FSEvents-master/Sources/EonilFSEvents.swift": [1545950436, 0]
