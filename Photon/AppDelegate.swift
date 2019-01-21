@@ -34,12 +34,18 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         }
     }
     
+    @objc func quitApp(_ sender: Any?) {
+        sendingString = "000" + "000" + "000" + "\n"
+        updateLEDs()
+        NSApplication.shared.terminate(self)
+    }
+    
     func constructMenu() {
         let menu = NSMenu()
         
         //menu.addItem(NSMenuItem)
         //menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Quit Photon", action: #selector(NSApplication.terminate(_:)), keyEquivalent: "q"))
+        menu.addItem(NSMenuItem(title: "Quit Photon", action: #selector(quitApp(_:)), keyEquivalent: "q"))
         
         statusItem.menu = menu
     }
