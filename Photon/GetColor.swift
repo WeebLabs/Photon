@@ -25,7 +25,6 @@ func getColor() {
     //let url = NSWorkspace.shared.desktopImageURL(for: NSScreen.screens[0]) //Old method!
     if let url = try? Wallpaper.get(screen: .main) {
 
-        print("Image Path:",  url[0].absoluteString, "END")
         if let beginImage = CIImage(contentsOf: url[0].absoluteURL) {  //Wallpaper library delivers url as an array, so we're passing the zero index
             
             let extentVector = CIVector(x: beginImage.extent.origin.x, y: beginImage.extent.origin.y, z: beginImage.extent.size.width, w: beginImage.extent.size.height)
@@ -54,12 +53,12 @@ func getColor() {
             sendingString = rString + gString + bString + "\n"
             
         } else {
-            print("Fudged URL!")
-            return
+            usleep(100000)
+            getColor()
             }
         
     } else {
-        print("Fudged Input!")
-        return
+        usleep(100000)
+        getColor()
         }
 }
